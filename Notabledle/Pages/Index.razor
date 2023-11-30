@@ -1,0 +1,68 @@
+﻿@using Notabledle.NotableModel
+@using Notabledle.NotableModel.GameDisplay;
+
+@page "/"
+
+<head>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+
+<PageTitle>Notabledle</PageTitle>
+
+<h1>Notabledle</h1>
+
+<p role="status">Guess count: @gameState.Count</p>
+
+<form id="notableGuessForm" @onsubmit="GuessNotable">
+    <label for="notableGuessField">Notable:</label>
+
+    <input type="text"
+           id="notableGuessField"
+           list="notableGuessOptions"
+           name="Notable"
+           autocomplete="on"
+           placeholder="Input an active skill notable"
+           require @bind="currentGuess">
+    <datalist id="notableGuessOptions">
+        @foreach (var item in NotableList.Value)
+        {
+            <option>@item.Name</option>
+        }
+    </datalist>
+
+    <input type="submit" />
+</form>
+
+<table>
+    <tr>
+    @foreach (var header in notableGame.GetHeaders())
+    {
+        <th>@header</th>
+    }
+    </tr>
+    @foreach (var gameStateRow in gameState)
+    {
+        <tr>
+            @foreach (var propertyCell in gameStateRow)
+            {
+                <td bgcolor="@propertyCell.Color">@propertyCell.GuessText</td>
+            }
+        </tr>
+    }
+</table>
+
+@code {
+    private string currentGuess = "";
+    private List<List<PropertyCell>> gameState = new List<List<PropertyCell>>();
+    NotableGame notableGame = new NotableGame();
+
+    private void GuessNotable()
+    {
+        gameState = notableGame.GuessNotable(currentGuess);
+        currentGuess = ""; // Clear the input after making a guess
+    }
+}
