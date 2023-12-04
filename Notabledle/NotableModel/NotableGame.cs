@@ -4,6 +4,15 @@ namespace Notabledle.NotableModel
 {
     public class NotableGame
     {
+        // TODO:
+        // Manual data entry
+        // Get list
+        // CI/CD
+        // Playtesting
+        //   Ordering
+        //   Difficulty
+        //   Other properties
+        // Prettify
         Notable targetGem = NotableList.Value[0];
         List<Notable> notableGuesses = new List<Notable>();
         List<IPropertyCellFromProperty> propertyCellFromProperties = new List<IPropertyCellFromProperty>()
