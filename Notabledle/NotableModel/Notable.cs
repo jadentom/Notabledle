@@ -11,6 +11,7 @@ namespace Notabledle.NotableModel
             MasteryType masteryType,
             HashSet<Catalysts> applicableCatalysts,
             HashSet<KnownColor> iconColors,
+            int startingDistance,
             int modifierCount,
             int groupNodeCount,
             OilRecipe oilRecipe)
@@ -24,6 +25,7 @@ namespace Notabledle.NotableModel
                 throw new InvalidEnumArgumentException($"{name} has invalid {nameof(iconColors)}");
             }
             IconColors = iconColors;
+            StartingDistance = startingDistance;
             ModifierCount = modifierCount;
             GroupNodeCount = groupNodeCount;
             OilRecipe = oilRecipe;
@@ -73,6 +75,11 @@ namespace Notabledle.NotableModel
             KnownColor.Orange,
             KnownColor.Pink,
         };
+
+        /// <summary>
+        /// The shortest distance from the starting node of <see cref="TreeArea"/>
+        /// </summary>
+        public int StartingDistance { get; }
 
         /// <summary>
         /// The count of separate modifiers granted by the notable

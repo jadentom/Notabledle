@@ -8,20 +8,13 @@ namespace Notabledle.NotableModel
         List<Notable> notableGuesses = new List<Notable>();
         List<IPropertyCellFromProperty> propertyCellFromProperties = new List<IPropertyCellFromProperty>()
         {
-            //   Notabledle (standalone)
-            //     1. X Tree area (Scion or 1/6th) (Maybe also distance?)
-            //     2. X Mastery type
-            //     3. X Applicable catalysts (if it were catalystable)
-            //     4. X Color(s) of notable image
-            //     5. X Count of separate modifiers granted by notable
-            //     6. X Count of nodes in wheel
-            //     7. Blight oils (Red if highest not same, orange if highest same)
             new PropertyCellFromRowCount(),
             new PropertyCellFromName(),
             new PropertyCellFromTreeArea(),
             new PropertyCellFromMasteryType(),
             new PropertyCellFromCatalystList(),
             new PropertyCellFromIconColors(),
+            new PropertyCellFromStartingDistance(),
             new PropertyCellFromModifierCount(),
             new PropertyCellFromGroupNodeCount(),
             new PropertyCellFromOilRecipe(),
