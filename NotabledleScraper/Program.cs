@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using NotabledleScraper;
 using NotabledleScraper.Model;
 using System.Text;
 using System.Text.Json;
@@ -80,23 +81,59 @@ foreach (var (key, node) in parsedJson.Nodes)
     {
         continue;
     }
-    var oils = node.Recipe
-        .Reverse()
-        .Select(o => $"BlightOil.{o[^3..]}");
     if (!parsedJson.Groups.TryGetValue(node.GroupId, out var associatedGroup))
     {
-        throw new KeyNotFoundException(node.Name);
+        throw new KeyNotFoundException($"{node.Name} no group?");
+    }
+    if (associatedGroup.NodeIds is null)
+    {
+        throw new KeyNotFoundException($"{node.Name} associated group {node.GroupId} has no nodes?");
+    }
+    if (node.Stats is null)
+    {
+        throw new KeyNotFoundException($"{node.Name} no stats?");
+    }
+
+    var oils = node.Recipe
+        .Reverse()
+        .Select(o => $"BlightOil.{o[..^3]}");
+
+    var siblingNodes = associatedGroup.NodeIds.Select(i =>
+    {
+        if (!parsedJson.Nodes.TryGetValue(i.ToString(), out var outNode))
+        {
+            throw new KeyNotFoundException($"{node.Name} associated group {node.GroupId} node {i} not found.");
+        }
+        return outNode;
+    });
+    var masteryString = "None";
+    var masteryNode = siblingNodes.FirstOrDefault(n => n.IsMastery);
+    if (masteryNode is not null)
+    {
+        var masteryStringComponents = masteryNode.Name
+            .Split()
+            .SkipLast(1) // always just "Mastery"
+            .ToArray();
+        for ( var i = 0; i < masteryStringComponents.Length; i++)
+        {
+            // It's the only possible lower case word
+            if (masteryStringComponents[i].Equals("and", StringComparison.Ordinal))
+            {
+                masteryStringComponents[i] = "And";
+            }
+        }
+        masteryString = string.Join("", masteryStringComponents);
     }
 
     outString.AppendLine($@"new Notable(
     ""{node.Name}"",
-    TreeArea.{"[UNIMPLEMENTED: NEED A CLASS WITH POSITION LOGIC]"},
-    MasteryType.{"[UNIMPLEMENTED: LOOK AT GROUP FOR MASTERY TRUE]"},
+    TreeArea.{TreeAreaFromPosition.Get(associatedGroup.X, associatedGroup.Y)},
+    MasteryType.{masteryString},
     new HashSet<Catalysts> {{ {"[UNIMPLEMENTED: CATALYSTS (MANUAL)]"} }},
     new HashSet<KnownColor> {{ {"[UNIMPLEMENTED: COLORS (MANUAL)]"} }},
     {"[UNIMPLEMENTED: START DISTANCE (MANUAL)]"},
-    {node.Stats},
-    {associatedGroup.NodeIds?.Length ?? 0},
+    {node.Stats.Length},
+    {siblingNodes.Count()},
     new OilRecipe({string.Join(", ", oils)})),");
 }
 var outPath = "output.txt";
