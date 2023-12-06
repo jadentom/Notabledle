@@ -9,7 +9,7 @@ namespace Notabledle.NotableModel
         public Notable(string name,
             TreeArea treeArea,
             MasteryType masteryType,
-            HashSet<Catalysts> applicableCatalysts,
+            HashSet<Catalyst> applicableCatalysts,
             HashSet<KnownColor> iconColors,
             int startingDistance,
             int modifierCount,
@@ -19,7 +19,12 @@ namespace Notabledle.NotableModel
             Name = name;
             TreeArea = treeArea;
             MasteryType = masteryType;
+            // There could be no applicable catalysts
             ApplicableCatalysts = applicableCatalysts;
+            if (!iconColors.Any())
+            {
+                throw new ArgumentException($"{name} has no {nameof(iconColors)}");
+            }
             if (iconColors.Any(c => !allowedIconColors.Contains(c)))
             {
                 throw new InvalidEnumArgumentException($"{name} has invalid {nameof(iconColors)}");
@@ -55,7 +60,7 @@ namespace Notabledle.NotableModel
         /// The catalysts that would apply to the mods granted by the notable.
         /// If a notable with an unscalable mod like Cleansed Thoughts (double chaos resistance), still say that a prismatic would apply
         /// </summary>
-        public HashSet<Catalysts> ApplicableCatalysts { get; }
+        public HashSet<Catalyst> ApplicableCatalysts { get; }
 
         /// <summary>
         /// The color of the icon.

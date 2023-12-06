@@ -9,7 +9,7 @@ using System.Text.Json;
 //public Notable(string name,
 //    TreeArea treeArea,
 //    MasteryType masteryType,
-//    HashSet<Catalysts> applicableCatalysts,
+//    HashSet<Catalyst> applicableCatalysts,
 //    HashSet<KnownColor> iconColors,
 //    int startingDistance,
 //    int modifierCount,
@@ -20,7 +20,7 @@ using System.Text.Json;
 //    "Born to Fight",
 //    TreeArea.Marauder,
 //    MasteryType.None,
-//    new HashSet<Catalysts> { Catalysts.Abrasive, Catalysts.Accelerating, Catalysts.Intrinsic, Catalysts.Noxious },
+//    new HashSet<Catalyst> { Catalysts.Abrasive, Catalysts.Accelerating, Catalysts.Intrinsic, Catalysts.Noxious },
 //    new HashSet<KnownColor> { KnownColor.Pink, KnownColor.Blue },
 //    5,
 //    3,
@@ -66,77 +66,46 @@ using System.Text.Json;
 //    ]
 //},
 
-var rawJson = await File.ReadAllTextAsync("SkillTree.json")!;
-var parsedJson = JsonSerializer.Deserialize<SkillTreeJsonModel>(rawJson);
-if (parsedJson is null)
+var prettyPrintSerializerOptions = new JsonSerializerOptions()
 {
-    throw new JsonException("Parsed json is null");
+    WriteIndented = true,
+    AllowTrailingCommas = true, // Doesn't add them but we'll need them when deserializing
+};
+var rawSkillJson = await File.ReadAllTextAsync("SkillTree.json")!;
+var parsedSkillJson = JsonSerializer.Deserialize<SkillTreeJsonModel>(rawSkillJson, prettyPrintSerializerOptions);
+if (parsedSkillJson is null)
+{
+    throw new JsonException("Parsed skill json is null");
 }
-Console.WriteLine($"Deserialized successfully. {parsedJson.Groups.Count} groups, {parsedJson.Nodes.Count} nodes.");
+Console.WriteLine($"Deserialized skill tree successfully. {parsedSkillJson.Groups.Count} groups, {parsedSkillJson.Nodes.Count} nodes.");
+
+var rawManualDataJson = await File.ReadAllTextAsync("populated_node_manual_stats.json");
+//var doc = JsonDocument.Parse(rawSkillJson);
+//var objects = doc.RootElement.EnumerateArray();
+//var parsedManualJson = objects.Select(o => o.Deserialize<NodeManualData>()).ToList();
+var parsedManualJson = JsonSerializer.Deserialize<List<NodeManualData>>(rawManualDataJson, prettyPrintSerializerOptions);
+if (parsedManualJson is null)
+{
+    throw new JsonException("Parsed manual data json is null");
+}
+Console.WriteLine($"Deserialized manual data successfully. {parsedManualJson.Count} entries.");
+var manualDataDictionary = parsedManualJson.ToDictionary(n => n.Name, n => n);
 
 var outString = new StringBuilder();
-foreach (var (key, node) in parsedJson.Nodes)
+var unpopulatedNodeManualDataList = new List<NodeManualData>();
+foreach (var (key, node) in parsedSkillJson.Nodes)
 {
     if (node.Recipe is null || !node.Recipe.Any())
     {
         continue;
     }
-    if (!parsedJson.Groups.TryGetValue(node.GroupId, out var associatedGroup))
-    {
-        throw new KeyNotFoundException($"{node.Name} no group?");
-    }
-    if (associatedGroup.NodeIds is null)
-    {
-        throw new KeyNotFoundException($"{node.Name} associated group {node.GroupId} has no nodes?");
-    }
-    if (node.Stats is null)
-    {
-        throw new KeyNotFoundException($"{node.Name} no stats?");
-    }
-
-    var oils = node.Recipe
-        .Reverse()
-        .Select(o => $"BlightOil.{o[..^3]}");
-
-    var siblingNodes = associatedGroup.NodeIds.Select(i =>
-    {
-        if (!parsedJson.Nodes.TryGetValue(i.ToString(), out var outNode))
-        {
-            throw new KeyNotFoundException($"{node.Name} associated group {node.GroupId} node {i} not found.");
-        }
-        return outNode;
-    });
-    var masteryString = "None";
-    var masteryNode = siblingNodes.FirstOrDefault(n => n.IsMastery);
-    if (masteryNode is not null)
-    {
-        var masteryStringComponents = masteryNode.Name
-            .Split()
-            .SkipLast(1) // always just "Mastery"
-            .ToArray();
-        for ( var i = 0; i < masteryStringComponents.Length; i++)
-        {
-            // It's the only possible lower case word
-            if (masteryStringComponents[i].Equals("and", StringComparison.Ordinal))
-            {
-                masteryStringComponents[i] = "And";
-            }
-        }
-        masteryString = string.Join("", masteryStringComponents);
-    }
-
-    outString.AppendLine($@"new Notable(
-    ""{node.Name}"",
-    TreeArea.{TreeAreaFromPosition.Get(associatedGroup.X, associatedGroup.Y)},
-    MasteryType.{masteryString},
-    new HashSet<Catalysts> {{ {"[UNIMPLEMENTED: CATALYSTS (MANUAL)]"} }},
-    new HashSet<KnownColor> {{ {"[UNIMPLEMENTED: COLORS (MANUAL)]"} }},
-    {"[UNIMPLEMENTED: START DISTANCE (MANUAL)]"},
-    {node.Stats.Length},
-    {siblingNodes.Count()},
-    new OilRecipe({string.Join(", ", oils)})),");
+    OutputBuilder.BuildOutputForNode(parsedSkillJson, manualDataDictionary, outString, unpopulatedNodeManualDataList, node);
 }
 var outPath = "output.txt";
 File.WriteAllText(outPath, outString.ToString());
-
 Console.WriteLine($"Wrote output to {Path.GetFullPath(outPath)}");
+
+unpopulatedNodeManualDataList = unpopulatedNodeManualDataList.OrderBy(n => n.TreeArea).ToList();
+var unpopulatedJsonPath = "unpopulated_node_manual_stats.json";
+File.WriteAllText(unpopulatedJsonPath, JsonSerializer.Serialize(unpopulatedNodeManualDataList, prettyPrintSerializerOptions));
+Console.WriteLine($"Wrote unpopulated json to {Path.GetFullPath(unpopulatedJsonPath)}");
