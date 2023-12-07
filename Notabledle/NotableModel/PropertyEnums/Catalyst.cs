@@ -31,9 +31,9 @@
         /// </summary>
         Prismatic,
         /// <summary>
-        /// Tempering
+        /// Defence
         /// </summary>
-        Defence,
+        Tempering,
         /// <summary>
         /// Elemental Damage
         /// </summary>
