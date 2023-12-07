@@ -83,24 +83,10 @@
     "Catalysts": [
       "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
     "Distance": -1
   },
@@ -109,108 +95,47 @@
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
       "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 12
   },
   {
     "Name": "Bloodletting",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
       "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 10
   },
   {
     "Name": "Merciless Skewering",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
+      "Noxious"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
+      "Red"
     ],
-    "Distance": -1
+    "Distance": 9
   },
   {
     "Name": "Brink of Death",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
       "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 10
   },
   {
     "Name": "Hatchet Master",
@@ -218,215 +143,91 @@
     "Catalysts": [
       "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 14
   },
   {
     "Name": "Command of Steel",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
       "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 9
   },
   {
     "Name": "Admonisher",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
       "Orange",
       "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 8
   },
   {
     "Name": "Hematophagy",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
       "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 13
   },
   {
     "Name": "Rampart",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
       "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
       "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 8
   },
   {
     "Name": "Seasoned Swordplay",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
       "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
       "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 8
   },
   {
     "Name": "Measured Fury",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
       "Orange",
       "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 8
   },
   {
     "Name": "Golem\u0027s Blood",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
       "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 8
   },
   {
     "Name": "Destroyer",
@@ -434,53 +235,28 @@
     "Catalysts": [
       "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
       "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
       "Orange",
       "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 7
   },
   {
     "Name": "Master of the Arena",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
       "Fertile",
-      "Imbued",
       "Intrinsic",
       "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
       "Orange",
       "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 5
   },
   {
     "Name": "Surveillance",
@@ -488,323 +264,135 @@
     "Catalysts": [
       "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 13
   },
   {
     "Name": "Panopticon",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 15
   },
   {
     "Name": "Ironwood",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
       "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
       "Prismatic",
       "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 13
   },
   {
     "Name": "Cloth and Chain",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
       "Prismatic",
       "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 8
   },
   {
     "Name": "Adamant",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
       "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
       "Orange",
       "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 13
   },
   {
     "Name": "Defiance",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
       "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
       "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 7
   },
   {
     "Name": "Bravery",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
       "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
       "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 7
   },
   {
     "Name": "Mana Flows",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
       "Fertile",
-      "Imbued",
       "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
       "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 7
   },
   {
     "Name": "Disciple of the Unyielding",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
       "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 15
   },
   {
     "Name": "Disciple of the Slaughter",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 15
   },
   {
     "Name": "Vigour",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
       "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 9
   },
   {
     "Name": "Savagery",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 10
   },
   {
     "Name": "Dervish",
@@ -812,80 +400,33 @@
     "Catalysts": [
       "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 7
   },
   {
     "Name": "Dirty Techniques",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 13
   },
   {
     "Name": "Revelry",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
       "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
       "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 8
   },
   {
     "Name": "Retaliation",
@@ -893,53 +434,24 @@
     "Catalysts": [
       "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
       "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
       "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 14
   },
   {
     "Name": "Testudo",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
       "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 14
   },
   {
     "Name": "Art of the Gladiator",
@@ -947,78 +459,34 @@
     "Catalysts": [
       "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
       "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 5
   },
   {
     "Name": "Fury Bolts",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
+      "Intrinsic"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 7
   },
   {
     "Name": "Titanic Impacts",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
       "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
     "Distance": -1
   },
@@ -1027,27 +495,11 @@
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 13
   },
   {
     "Name": "Ribcage Crusher",
@@ -1055,134 +507,57 @@
     "Catalysts": [
       "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
       "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 8
   },
   {
     "Name": "Deadly Draw",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
       "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 8
   },
   {
     "Name": "Heavy Draw",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
       "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 8
   },
   {
     "Name": "Deflection",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 13
   },
   {
     "Name": "Swagger",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
       "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 13
   },
   {
     "Name": "Gladiator\u0027s Perseverance",
@@ -1191,106 +566,47 @@
       "Abrasive",
       "Accelerating",
       "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
       "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 9
   },
   {
     "Name": "Vitality Void",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
       "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 9
   },
   {
     "Name": "Spirit Void",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
       "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
       "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 9
   },
   {
     "Name": "Dance of Blades",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
       "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 14
   },
   {
     "Name": "Burning Brutality",
@@ -1298,107 +614,50 @@
     "Catalysts": [
       "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
       "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
       "Orange",
       "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 10
   },
   {
     "Name": "Forceful Skewering",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
       "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 12
   },
   {
     "Name": "Courage",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
       "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 9
   },
   {
     "Name": "Graceful Assault",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
       "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
+      "Green"
     ],
-    "Distance": -1
+    "Distance": 10
   },
   {
     "Name": "Ambidexterity",
@@ -1406,51 +665,21 @@
     "Catalysts": [
       "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
       "Orange",
       "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 13
   },
   {
     "Name": "Blade Barrier",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
     "Distance": -1
   },
@@ -1459,135 +688,58 @@
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
       "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 12
   },
   {
     "Name": "Wisdom of the Glade",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
       "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
       "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 8
   },
   {
     "Name": "Dazzling Strikes",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
       "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 10
   },
   {
     "Name": "Bladedancer",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
       "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
-      "Red",
       "Orange",
       "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 11
   },
   {
     "Name": "Marked for Death",
     "TreeArea": "Duelist",
     "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Tempering",
-      "Turbulent",
-      "Unstable"
     ],
     "Colors": [
-      "Pink",
       "Red",
-      "Orange",
-      "Yellow",
       "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
     ],
-    "Distance": -1
+    "Distance": 11
   },
   {
     "Name": "Tenacity",

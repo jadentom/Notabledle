@@ -12,6 +12,8 @@ namespace Notabledle.NotableModel
         //   Difficulty
         //   Other properties
         // Images and descriptions on victory
+        // Reference tree with descriptions
+        // The tree should cross off areas and zoom once you know what it is.
         // Add new notable each day/free play feature
         // Prettify UI with CSS
         Notable targetGem = NotableList.Value[2]; // Adamant in Duelist
