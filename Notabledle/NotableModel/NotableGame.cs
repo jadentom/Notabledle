@@ -5,13 +5,13 @@ namespace Notabledle.NotableModel
     public class NotableGame
     {
         // TODO:
-        // Alphabetical order of notables
         // Manually populate populated_node_manual_stats.json
-        // CI/CD
+        // Actual CI/CD
         // Playtesting
         //   Ordering
         //   Difficulty
         //   Other properties
+        // Images and descriptions on victory
         // Add new notable each day/free play feature
         // Prettify UI with CSS
         Notable targetGem = NotableList.Value[2]; // Adamant in Duelist

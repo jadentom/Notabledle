@@ -6,8 +6,8 @@ namespace Notabledle.NotableModel
     public static class NotableList
     {
         // Resources:
-        // File: https://github.com/poe-tool-dev/passive-skill-tree-json/blob/master/3.21.0/SkillTree.json
-        // Raw: https://raw.githubusercontent.com/poe-tool-dev/passive-skill-tree-json/master/3.21.0/SkillTree.json
+        // File: https://github.com/grindinggear/skilltree-export/blob/master/data.json
+        // Raw: https://raw.githubusercontent.com/grindinggear/skilltree-export/master/data.json
         // How to parse: https://www.pathofexile.com/forum/view-thread/167255#p2097992
         // Double check: https://poeplanner.com/
 

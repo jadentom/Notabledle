@@ -56,8 +56,9 @@ namespace NotabledleScraper
             }
 
             var treeArea = TreeAreaFromPosition.Get(associatedGroup.X, associatedGroup.Y);
+            
+            // Comment these out if re-generating the manual stats json
             var manualDataEntry = manualDataDictionary[node.Name];
-
             outString.AppendLine($@"new Notable(
     ""{node.Name}"",
     TreeArea.{treeArea},

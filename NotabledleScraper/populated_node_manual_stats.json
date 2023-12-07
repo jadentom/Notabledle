@@ -27,7 +27,34 @@
     "Distance": -1
   },
   {
-    "Name": "Lava Lash",
+    "Name": "Bannerman",
+    "TreeArea": "Duelist",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Fertile",
+      "Imbued",
+      "Intrinsic",
+      "Noxious",
+      "Prismatic",
+      "Defence",
+      "Turbulent",
+      "Unstable"
+    ],
+    "Colors": [
+      "Pink",
+      "Red",
+      "Orange",
+      "Yellow",
+      "Green",
+      "Cyan",
+      "Blue",
+      "Purple"
+    ],
+    "Distance": -1
+  },
+  {
+    "Name": "Champion of the Cause",
     "TreeArea": "Duelist",
     "Catalysts": [
       "Abrasive",
@@ -1944,6 +1971,87 @@
     "Distance": -1
   },
   {
+    "Name": "Lava Lash",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Fertile",
+      "Imbued",
+      "Intrinsic",
+      "Noxious",
+      "Prismatic",
+      "Defence",
+      "Turbulent",
+      "Unstable"
+    ],
+    "Colors": [
+      "Pink",
+      "Red",
+      "Orange",
+      "Yellow",
+      "Green",
+      "Cyan",
+      "Blue",
+      "Purple"
+    ],
+    "Distance": -1
+  },
+  {
+    "Name": "Settling Ash",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Fertile",
+      "Imbued",
+      "Intrinsic",
+      "Noxious",
+      "Prismatic",
+      "Defence",
+      "Turbulent",
+      "Unstable"
+    ],
+    "Colors": [
+      "Pink",
+      "Red",
+      "Orange",
+      "Yellow",
+      "Green",
+      "Cyan",
+      "Blue",
+      "Purple"
+    ],
+    "Distance": -1
+  },
+  {
+    "Name": "Concussive Force",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Fertile",
+      "Imbued",
+      "Intrinsic",
+      "Noxious",
+      "Prismatic",
+      "Defence",
+      "Turbulent",
+      "Unstable"
+    ],
+    "Colors": [
+      "Pink",
+      "Red",
+      "Orange",
+      "Yellow",
+      "Green",
+      "Cyan",
+      "Blue",
+      "Purple"
+    ],
+    "Distance": -1
+  },
+  {
     "Name": "Disemboweling",
     "TreeArea": "Marauder",
     "Catalysts": [
@@ -2322,7 +2430,7 @@
     "Distance": -1
   },
   {
-    "Name": "Harvester of Foes",
+    "Name": "Cauterisation",
     "TreeArea": "Marauder",
     "Catalysts": [
       "Abrasive",
@@ -2592,7 +2700,7 @@
     "Distance": -1
   },
   {
-    "Name": "Goliath",
+    "Name": "Harvester of Foes",
     "TreeArea": "Marauder",
     "Catalysts": [
       "Abrasive",
@@ -2647,6 +2755,33 @@
   },
   {
     "Name": "Steadfast",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Fertile",
+      "Imbued",
+      "Intrinsic",
+      "Noxious",
+      "Prismatic",
+      "Defence",
+      "Turbulent",
+      "Unstable"
+    ],
+    "Colors": [
+      "Pink",
+      "Red",
+      "Orange",
+      "Yellow",
+      "Green",
+      "Cyan",
+      "Blue",
+      "Purple"
+    ],
+    "Distance": -1
+  },
+  {
+    "Name": "Goliath",
     "TreeArea": "Marauder",
     "Catalysts": [
       "Abrasive",
@@ -2916,60 +3051,6 @@
     "Distance": -1
   },
   {
-    "Name": "Bannerman",
-    "TreeArea": "Marauder",
-    "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Defence",
-      "Turbulent",
-      "Unstable"
-    ],
-    "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
-    ],
-    "Distance": -1
-  },
-  {
-    "Name": "Champion of the Cause",
-    "TreeArea": "Marauder",
-    "Catalysts": [
-      "Abrasive",
-      "Accelerating",
-      "Fertile",
-      "Imbued",
-      "Intrinsic",
-      "Noxious",
-      "Prismatic",
-      "Defence",
-      "Turbulent",
-      "Unstable"
-    ],
-    "Colors": [
-      "Pink",
-      "Red",
-      "Orange",
-      "Yellow",
-      "Green",
-      "Cyan",
-      "Blue",
-      "Purple"
-    ],
-    "Distance": -1
-  },
-  {
     "Name": "Soul of Steel",
     "TreeArea": "Marauder",
     "Catalysts": [
@@ -2998,6 +3079,33 @@
   },
   {
     "Name": "Way of the Warrior",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Fertile",
+      "Imbued",
+      "Intrinsic",
+      "Noxious",
+      "Prismatic",
+      "Defence",
+      "Turbulent",
+      "Unstable"
+    ],
+    "Colors": [
+      "Pink",
+      "Red",
+      "Orange",
+      "Yellow",
+      "Green",
+      "Cyan",
+      "Blue",
+      "Purple"
+    ],
+    "Distance": -1
+  },
+  {
+    "Name": "Invigorating Blaze",
     "TreeArea": "Marauder",
     "Catalysts": [
       "Abrasive",
