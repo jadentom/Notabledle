@@ -12,6 +12,7 @@ namespace Notabledle.NotableModel
         //   Ordering
         //   Difficulty
         //   Other properties
+        // Add new notable each day/free play feature
         // Prettify UI with CSS
         Notable targetGem = NotableList.Value[0];
         List<Notable> notableGuesses = new List<Notable>();
