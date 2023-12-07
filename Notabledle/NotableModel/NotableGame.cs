@@ -6,17 +6,21 @@ namespace Notabledle.NotableModel
     {
         // TODO:
         // Manually populate populated_node_manual_stats.json
-        // Actual CI/CD
+        // Column help text
+        // Don't include mastery in wheel node count
+        // Invert list of guesses
+        // Add free play feature
+        // Actual CI/CD (manual deploy)
         // Playtesting
-        //   Ordering
+        //   Ordering of columns
         //   Difficulty
         //   Other properties
         // Images and descriptions on victory
         // Reference tree with descriptions
         // The tree should cross off areas and zoom once you know what it is.
-        // Add new notable each day/free play feature
+        // Add new notable each day
         // Prettify UI with CSS
-        Notable targetGem = NotableList.Value[2]; // Adamant in Duelist
+        Notable targetGem = NotableList.Value[305]; // Rampart in Duelist
         List<Notable> notableGuesses = new List<Notable>();
         List<IPropertyCellFromProperty> propertyCellFromProperties = new List<IPropertyCellFromProperty>()
         {

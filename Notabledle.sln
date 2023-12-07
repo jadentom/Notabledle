@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notabledle", "Notabledle\No
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotabledleScraper", "NotabledleScraper\NotabledleScraper.csproj", "{55193157-C2FB-4E8C-9D9D-256F82FF418C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notabledle.Test", "Notabledle.Test\Notabledle.Test.csproj", "{04AC4349-2A9D-437E-98FC-32903C89972C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{55193157-C2FB-4E8C-9D9D-256F82FF418C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55193157-C2FB-4E8C-9D9D-256F82FF418C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55193157-C2FB-4E8C-9D9D-256F82FF418C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AC4349-2A9D-437E-98FC-32903C89972C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AC4349-2A9D-437E-98FC-32903C89972C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AC4349-2A9D-437E-98FC-32903C89972C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AC4349-2A9D-437E-98FC-32903C89972C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
