@@ -9,3 +9,4 @@ https://www.linkedin.com/pulse/publish-blazor-any-webapp-github-pages-free-rikam
 
 2. Update <base> Tag:In the index.html file of your Blazor app, you'll find a <base> tag that sets the base URL for your app. Update this tag to reflect the correct base URL for your GitHub Pages repository. In your case, for a repository named "username.github.io", the <base> tag should look like this. Image 14. <Base> tag
 
+<base href="/" /> => <base href="Notabledle" />

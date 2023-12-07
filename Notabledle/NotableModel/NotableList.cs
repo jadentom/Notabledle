@@ -4257,7 +4257,7 @@ new Notable(
     1,
     new OilRecipe(BlightOil.Golden, BlightOil.Golden, BlightOil.Amber)),
 
-        };
+        }.OrderBy(n => n.Name).ToList();
 
         public static readonly Lazy<Dictionary<string, Notable>> AsDictionary =
             new Lazy<Dictionary<string, Notable>>(() => Value.ToDictionary(v => v.Name, v => v));

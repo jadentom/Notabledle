@@ -14,7 +14,7 @@ namespace Notabledle.NotableModel
         //   Other properties
         // Add new notable each day/free play feature
         // Prettify UI with CSS
-        Notable targetGem = NotableList.Value[0];
+        Notable targetGem = NotableList.Value[2]; // Adamant in Duelist
         List<Notable> notableGuesses = new List<Notable>();
         List<IPropertyCellFromProperty> propertyCellFromProperties = new List<IPropertyCellFromProperty>()
         {
