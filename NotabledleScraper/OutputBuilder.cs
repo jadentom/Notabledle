@@ -56,6 +56,8 @@ namespace NotabledleScraper
             }
 
             var treeArea = TreeAreaFromPosition.Get(associatedGroup.X, associatedGroup.Y);
+
+            var groupNodeCount = siblingNodes.Where(n => !n.IsMastery).Count();
             
             // Comment these out if re-generating the manual stats json
             var manualDataEntry = manualDataDictionary[node.Name];
