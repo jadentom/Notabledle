@@ -39,9 +39,11 @@
 
 <table>
     <tr>
-    @foreach (var header in notableGame.GetHeaders())
+    @foreach (var (header, helpText) in notableGame.GetHeaders())
     {
-        <th>@header</th>
+        <th>
+            <div title="@helpText">@header</div>
+        </th>
     }
     </tr>
     @foreach (var gameStateRow in gameState)

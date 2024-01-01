@@ -7,6 +7,8 @@ namespace Notabledle.NotableModel.GameDisplay
     {
         public string HeaderName => "Oil Recipe";
 
+        public string HelpText => "The oil recipe (highest tier first). The notables are also compared in order and if the highest tier is the same, the guess will be orange.";
+
         public PropertyCell PropertyCellFromProperty(Notable guessGem, Notable targetGem, int i)
         {
             var guessOilRecipe = guessGem.OilRecipe;

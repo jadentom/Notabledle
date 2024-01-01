@@ -6,6 +6,8 @@ namespace Notabledle.NotableModel.GameDisplay
     {
         public string HeaderName => "Catalyst List";
 
+        public string HelpText => "The catalysts which would be applicable to a notable were its stats granted by a piece of jewelry. E.G Fertile, Accelerating";
+
         public PropertyCell PropertyCellFromProperty(Notable guessGem, Notable targetGem, int i)
         {
             var returnCatalystList = guessGem.ApplicableCatalysts.Select(a => a.ToString());

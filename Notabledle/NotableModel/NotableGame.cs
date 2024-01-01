@@ -59,9 +59,9 @@ namespace Notabledle.NotableModel
             return returnValue;
         }
 
-        public List<string> GetHeaders()
+        public List<(string Header, string HelpText)> GetHeaders()
         {
-            return propertyCellFromProperties.Select(p => p.HeaderName).ToList();
+            return propertyCellFromProperties.Select(p => (p.HeaderName, p.HelpText)).ToList();
         }
     }
 }
