@@ -8,6 +8,7 @@ namespace Notabledle.NotableModel
         // Manually populate populated_node_manual_stats.json
         // Add free play feature
         // Actual CI/CD (manual deploy)
+        // Add icon column
         // Playtesting
         //   Ordering of columns
         //   Difficulty
