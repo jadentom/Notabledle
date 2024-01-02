@@ -734,6 +734,7 @@
     "Name": "Marked for Death",
     "TreeArea": "Duelist",
     "Catalysts": [
+      "Imbued",
     ],
     "Colors": [
       "Red",
@@ -910,7 +911,7 @@
         "Unstable"
       ],
       "Colors": [
-        "Red",
+        "Red"
       ],
       "Distance": 13
     },
@@ -918,10 +919,10 @@
       "Name": "Hearty",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Fertile",
+        "Fertile"
       ],
       "Colors": [
-        "Red",
+        "Red"
       ],
       "Distance": 13
     },
@@ -930,11 +931,11 @@
       "TreeArea": "Marauder",
       "Catalysts": [
         "Fertile",
-        "Prismatic",
+        "Prismatic"
       ],
       "Colors": [
         "Orange",
-        "Yellow",
+        "Yellow"
       ],
       "Distance": 8
     },
@@ -944,7 +945,7 @@
       "Catalysts": [
       ],
       "Colors": [
-        "Orange",
+        "Orange"
       ],
       "Distance": 9
     },
@@ -953,10 +954,10 @@
       "TreeArea": "Marauder",
       "Catalysts": [
         "Fertile",
-        "Tempering",
+        "Tempering"
       ],
       "Colors": [
-        "Orange",
+        "Orange"
       ],
       "Distance": 8
     },
@@ -964,11 +965,11 @@
       "Name": "Cannibalistic Rite",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Fertile",
+        "Fertile"
       ],
       "Colors": [
         "Orange",
-        "Yellow",
+        "Yellow"
       ],
       "Distance": 13
     },
@@ -976,11 +977,11 @@
       "Name": "Vanquisher",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Noxious",
+        "Noxious"
       ],
       "Colors": [
         "Orange",
-        "Yellow",
+        "Yellow"
       ],
       "Distance": 12
     },
@@ -988,10 +989,10 @@
       "Name": "Inexorable",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Tempering",
+        "Tempering"
       ],
       "Colors": [
-        "Red",
+        "Red"
       ],
       "Distance": 14
     },
@@ -1002,7 +1003,7 @@
       ],
       "Colors": [
         "Orange",
-        "Yellow",
+        "Yellow"
       ],
       "Distance": 14
     },
@@ -1010,7 +1011,7 @@
       "Name": "Escalation",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Abrasive",
+        "Abrasive"
       ],
       "Colors": [
         "Orange",
@@ -1025,10 +1026,10 @@
         "Abrasive",
         "Accelerating",
         "Fertile",
-        "Noxious",
+        "Noxious"
       ],
       "Colors": [
-        "Red",
+        "Red"
       ],
       "Distance": 8
     },
@@ -1037,11 +1038,11 @@
       "TreeArea": "Marauder",
       "Catalysts": [
         "Fertile",
-        "Turbulent",
+        "Turbulent"
       ],
       "Colors": [
         "Orange",
-        "Yellow",
+        "Yellow"
       ],
       "Distance": 8
     },
@@ -1050,11 +1051,11 @@
       "TreeArea": "Marauder",
       "Catalysts": [
         "Noxious",
-        "Turbulent",
+        "Turbulent"
       ],
       "Colors": [
         "Orange",
-        "Yellow",
+        "Yellow"
       ],
       "Distance": 8
     },
@@ -1062,10 +1063,10 @@
       "Name": "Utmost Might",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Intrinsic",
+        "Intrinsic"
       ],
       "Colors": [
-        "Red",
+        "Red"
       ],
       "Distance": 14
     },
@@ -1076,7 +1077,7 @@
       ],
       "Colors": [
         "Red",
-        "Orange",
+        "Orange"
       ],
       "Distance": 8
     },
@@ -1085,10 +1086,10 @@
       "TreeArea": "Marauder",
       "Catalysts": [
         "Abrasive",
-        "Noxious",
+        "Noxious"
       ],
       "Colors": [
-        "Red",
+        "Red"
       ],
       "Distance": 13
     },
@@ -1096,10 +1097,10 @@
       "Name": "Ancestral Knowledge",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Intrinsic",
+        "Intrinsic"
       ],
       "Colors": [
-        "Blue",
+        "Blue"
       ],
       "Distance": 8
     },
@@ -1113,7 +1114,7 @@
         "Noxious"
       ],
       "Colors": [
-        "Red",
+        "Red"
       ],
       "Distance": 8
     },
@@ -1127,7 +1128,7 @@
         "Noxious"
       ],
       "Colors": [
-        "Orange",
+        "Orange"
       ],
       "Distance": 8
     },
@@ -1135,10 +1136,10 @@
       "Name": "Warrior Training",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Abrasive",
+        "Abrasive"
       ],
       "Colors": [
-        "Orange",
+        "Orange"
       ],
       "Distance": 8
     },
@@ -1147,10 +1148,10 @@
       "TreeArea": "Marauder",
       "Catalysts": [
         "Noxious",
-        "Tempering",
+        "Tempering"
       ],
       "Colors": [
-        "Red",
+        "Red"
       ],
       "Distance": 8
     },
@@ -1158,10 +1159,10 @@
       "Name": "Robust",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Fertile",
+        "Fertile"
       ],
       "Colors": [
-        "Red",
+        "Red"
       ],
       "Distance": 8
     },
@@ -1169,7 +1170,7 @@
       "Name": "Diamond Skin",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Prismatic",
+        "Prismatic"
       ],
       "Colors": [
         "Red",
@@ -1186,7 +1187,7 @@
         "Unstable"
       ],
       "Colors": [
-        "Red",
+        "Red"
       ],
       "Distance": 9
     },
@@ -1195,10 +1196,10 @@
       "TreeArea": "Marauder",
       "Catalysts": [
         "Abrasive",
-        "Noxious",
+        "Noxious"
       ],
       "Colors": [
-        "Orange",
+        "Orange"
       ],
       "Distance": 9
     },
@@ -1206,11 +1207,11 @@
       "Name": "Bloodless",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Fertile",
+        "Fertile"
       ],
       "Colors": [
         "Red",
-        "Blue",
+        "Blue"
       ],
       "Distance": 11
     },
@@ -1218,11 +1219,11 @@
       "Name": "Steadfast",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Fertile",
+        "Fertile"
       ],
       "Colors": [
         "Orange",
-        "Yellow",
+        "Yellow"
       ],
       "Distance": 14
     },
@@ -1232,7 +1233,7 @@
       "Catalysts": [
       ],
       "Colors": [
-        "Red",
+        "Red"
       ],
       "Distance": 9
     },
@@ -1243,7 +1244,7 @@
       ],
       "Colors": [
         "Orange",
-        "Yellow",
+        "Yellow"
       ],
       "Distance": 8
     },
@@ -1253,7 +1254,7 @@
       "Catalysts": [
       ],
       "Colors": [
-        "Pink",
+        "Pink"
       ],
       "Distance": 9
     },
@@ -1263,10 +1264,10 @@
       "Catalysts": [
         "Accelerating",
         "Intrinsic",
-        "Noxious",
+        "Noxious"
       ],
       "Colors": [
-        "Blue",
+        "Blue"
       ],
       "Distance": 5
     },
@@ -1275,10 +1276,10 @@
       "TreeArea": "Marauder",
       "Catalysts": [
         "Fertile",
-        "Intrinsic",
+        "Intrinsic"
       ],
       "Colors": [
-        "Red",
+        "Red"
       ],
       "Distance": 5
     },
@@ -1288,11 +1289,11 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Intrinsic",
+        "Intrinsic"
       ],
       "Colors": [
         "Red",
-        "Green",
+        "Green"
       ],
       "Distance": 7
     },
@@ -1301,10 +1302,10 @@
       "TreeArea": "Marauder",
       "Catalysts": [
         "Fertile",
-        "Intrinsic",
+        "Intrinsic"
       ],
       "Colors": [
-        "Pink",
+        "Pink"
       ],
       "Distance": 7
     },
@@ -1315,7 +1316,7 @@
       ],
       "Colors": [
         "Red",
-        "Yellow",
+        "Yellow"
       ],
       "Distance": 13
     },
@@ -1324,10 +1325,10 @@
       "TreeArea": "Marauder",
       "Catalysts": [
         "Abrasive",
-        "Noxious",
+        "Noxious"
       ],
       "Colors": [
-        "Orange",
+        "Orange"
       ],
       "Distance": 8
     },
@@ -1335,10 +1336,10 @@
       "Name": "Unfaltering",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Fertile",
+        "Fertile"
       ],
       "Colors": [
-        "Orange",
+        "Orange"
       ],
       "Distance": 10
     },
@@ -1347,10 +1348,10 @@
       "TreeArea": "Marauder",
       "Catalysts": [
         "Prismatic",
-        "Tempering",
+        "Tempering"
       ],
       "Colors": [
-        "Orange",
+        "Orange"
       ],
       "Distance": 10
     },
@@ -1361,10 +1362,10 @@
         "Abrasive",
         "Fertile",
         "Intrinsic",
-        "Tempering",
+        "Tempering"
       ],
       "Colors": [
-        "Red",
+        "Red"
       ],
       "Distance": 999
     },
@@ -1373,11 +1374,11 @@
       "TreeArea": "Marauder",
       "Catalysts": [
         "Fertile",
-        "Turbulent",
+        "Turbulent"
       ],
       "Colors": [
         "Orange",
-        "Yellow",
+        "Yellow"
       ],
       "Distance": 11
     },
@@ -1385,10 +1386,10 @@
       "Name": "Proficiency",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Intrinsic",
+        "Intrinsic"
       ],
       "Colors": [
-        "Green",
+        "Green"
       ],
       "Distance": 9
     },
@@ -1396,7 +1397,7 @@
       "Name": "Prismatic Skin",
       "TreeArea": "Marauder",
       "Catalysts": [
-        "Prismatic",
+        "Prismatic"
       ],
       "Colors": [
         "Blue",
@@ -1412,7 +1413,7 @@
         "Unstable"
       ],
       "Colors": [
-        "Green",
+        "Green"
       ],
       "Distance": 10
     },
@@ -1432,16 +1433,9 @@
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Avatar of the Hunt",
@@ -1449,78 +1443,33 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Weathered Hunter",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Prismatic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Beef",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Intrinsic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
       "Distance": -1
     },
@@ -1528,460 +1477,199 @@
       "Name": "Crystal Skin",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Prismatic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Freedom of Movement",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
         "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Finesse",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Abrasive",
+        "Intrinsic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 5
     },
     {
       "Name": "Charisma",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Deadly Inclinations",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
         "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 999
     },
     {
       "Name": "Farsight",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Accelerating"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Thick Skin",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Fangs of Frost",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Ballistics",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Intrinsic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 5
     },
     {
       "Name": "Druidic Rite",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 6
     },
     {
       "Name": "Heart of Oak",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Yellow"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Primal Spirit",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
         "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
         "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Excess Sustenance",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Replenishing Remedies",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Field Medicine",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 6
     },
     {
       "Name": "Utmost Swiftness",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
         "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Toxic Strikes",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
         "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Aspect of the Eagle",
@@ -1989,284 +1677,121 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Entrench",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Aspect of Stone",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 999
     },
     {
       "Name": "Quickstep",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "One With Nature",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
         "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Twin Terrors",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
         "Orange",
         "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Revenge of the Hunted",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
         "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Expert Hunter",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Lethality",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
         "Orange",
         "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Longshot",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Adjacent Animosity",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
         "Pink",
@@ -2278,34 +1803,18 @@
         "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Thief\u0027s Craft",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
         "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Weapon Artistry",
@@ -2313,26 +1822,11 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Poisonous Fangs",
@@ -2340,26 +1834,12 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
         "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Aspect of the Lynx",
@@ -2367,431 +1847,186 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Intuition",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
         "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Fleetfoot",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
         "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Essence Sap",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Perfectionist",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Forces of Nature",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
         "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
         "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Natural Remedies",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Flash Freeze",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
         "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Winter Spirit",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
         "Noxious",
-        "Prismatic",
-        "Tempering",
         "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Silent Steps",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
         "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Primeval Force",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
         "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Fervour",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Survivalist",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
         "Prismatic",
         "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Herbalism",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Swift Venoms",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
         "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Inveterate",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Relentless Pursuit",
@@ -2799,53 +2034,25 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
         "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Heartseeker",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Acuity",
@@ -2853,53 +2060,22 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Multishot",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Watchtowers",
@@ -2907,242 +2083,100 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Master Fletcher",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "King of the Hill",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Brutal Blade",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Fatal Blade",
       "TreeArea": "Ranger",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Trick Shot",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Split Shot",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Piercing Shots",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Vengeant Cascade",
       "TreeArea": "Ranger",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 999
     },
     {
       "Name": "Inspiring Bond",

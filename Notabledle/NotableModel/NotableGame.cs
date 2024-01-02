@@ -14,8 +14,8 @@ namespace Notabledle.NotableModel
         //   Difficulty
         //   Other properties
         // Images and descriptions on victory
-        // Reference tree with descriptions
-        // The tree should cross off areas and zoom once you know what it is.
+        // Reference tree with names descriptions and distances
+        //   Zoom in when tree area is known and grey out other areas
         // Add code to switch to a new notable every day
         // Prettify UI with CSS
         Notable targetGem = NotableList.Value[305]; // Rampart in Duelist
