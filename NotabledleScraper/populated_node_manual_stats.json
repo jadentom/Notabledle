@@ -3376,10 +3376,10 @@
       "Name": "Fatal Toxins",
       "TreeArea": "Shadow",
       "Catalysts": [
-        "Noxious",
+        "Noxious"
       ],
       "Colors": [
-        "Green",
+        "Green"
       ],
       "Distance": 12
     },
@@ -3389,7 +3389,7 @@
       "Catalysts": [
       ],
       "Colors": [
-        "Blue",
+        "Blue"
       ],
       "Distance": 14
     },
@@ -3400,7 +3400,7 @@
       ],
       "Colors": [
         "Green",
-        "Cyan",
+        "Cyan"
       ],
       "Distance": 16
     },
@@ -3412,7 +3412,7 @@
       ],
       "Colors": [
         "Yellow",
-        "Green",
+        "Green"
       ],
       "Distance": 14
     },
@@ -3420,244 +3420,102 @@
       "Name": "Crusader",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 999
     },
     {
       "Name": "Divine Judgement",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
         "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 15
     },
     {
       "Name": "Divine Fury",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
         "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 14
     },
     {
       "Name": "Divine Wrath",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
         "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 14
     },
     {
       "Name": "Persistence",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 999
     },
     {
       "Name": "Smashing Strikes",
       "TreeArea": "Templar",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Counterweight",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 15
     },
     {
       "Name": "Whirling Barrier",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Yellow"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Righteous Army",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Redemption",
@@ -3665,537 +3523,230 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Imbued"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Spiritual Aid",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 15
     },
     {
       "Name": "Surge of Vigour",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Powerful Bond",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Galvanic Hammer",
       "TreeArea": "Templar",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 14
     },
     {
       "Name": "Pain Forger",
       "TreeArea": "Templar",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 15
     },
     {
       "Name": "Shamanistic Fury",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Accelerating"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Primal Manifestation",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
         "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 14
     },
     {
       "Name": "Arcane Capacitor",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Endurance",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Overcharge",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Sanctum of Thought",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
         "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Faith and Steel",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
         "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Devotion",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Holy Fire",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
         "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Sovereignty",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Runesmith",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Imbued"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Purity of Flesh",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
         "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Blunt Trauma",
       "TreeArea": "Templar",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "One with the River",
       "TreeArea": "Templar",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
       "Distance": -1
     },
@@ -4203,298 +3754,133 @@
       "Name": "Tireless",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Arcane Potency",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Safeguard",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
         "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Explosive Impact",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Fearsome Force",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Expertise",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Intrinsic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Sanctuary",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Prismatic"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Steelwood Stance",
       "TreeArea": "Templar",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Divine Fervour",
       "TreeArea": "Templar",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
         "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
         "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Holy Dominion",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
         "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
         "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Light of Divinity",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
         "Imbued",
         "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Yellow"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Dark Arts",
@@ -4502,80 +3888,34 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Imbued"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Empowered Bond",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Trial of the Faith",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Spiritual Command",
@@ -4583,134 +3923,56 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Imbued"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Amplify",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Righteous Decree",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Righteous Fury",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Abrasive"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Combat Stamina",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Retribution",
@@ -4718,53 +3980,23 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Intrinsic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Yellow"
       ],
-      "Distance": -1
+      "Distance": 5
     },
     {
       "Name": "Discipline and Training",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Precision",
@@ -4772,350 +4004,151 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Intrinsic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Sanctity",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 5
     },
     {
       "Name": "Arcane Guarding",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Storm Weaver",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Sacrifice",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
         "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Serpent Stance",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Gravepact",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Abrasive"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Agility",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Intrinsic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Anointed Flesh",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Prismatic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Insightfulness",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Asylum",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Quick Recovery",
       "TreeArea": "Templar",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Defiled Forces",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Enigmatic Reach",
@@ -5123,80 +4156,33 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Imbued"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Might",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Intrinsic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Death Attunement",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 14
     },
     {
       "Name": "Prism Weave",
@@ -5204,1482 +4190,635 @@
       "Catalysts": [
         "Abrasive",
         "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Acrimony",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Yellow"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Explosive Runes",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Unnatural Calm",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
         "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Heart of Darkness",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Noxious"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Corruption",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Pink"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Last Rites",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Essence Infusion",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Essence Extraction",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Brand Equity",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Crackling Speed",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Shaman\u0027s Dominion",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Enduring Bond",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Mental Rapidity",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Imbued"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Disciple of the Forbidden",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 14
     },
     {
       "Name": "Cruel Preparation",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Prismatic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Fire Walker",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
         "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Frost Walker",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
         "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Cyan"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Lightning Walker",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
         "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Deep Thoughts",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Intrinsic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Breath of Flames",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 14
     },
     {
       "Name": "Heart of Flame",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Orange"
       ],
-      "Distance": -1
+      "Distance": 15
     },
     {
       "Name": "Infused Flesh",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Enigmatic Defence",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Imbued"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Breath of Lightning",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 14
     },
     {
       "Name": "Heart of Thunder",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 14
     },
     {
       "Name": "Instability",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Tranquility",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 999
     },
     {
       "Name": "Blast Radius",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Annihilation",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Deep Wisdom",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
         "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 5
     },
     {
       "Name": "Heart and Soul",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Lord of the Dead",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Arcanist\u0027s Dominion",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Intrinsic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 5
     },
     {
       "Name": "Practical Application",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
         "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Prismatic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 7
     },
     {
       "Name": "Mystic Talents",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
         "Imbued",
         "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 999
     },
     {
       "Name": "Presage",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Discord Artisan",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Mystic Bulwark",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Prodigal Perfection",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Imbued"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Breath of Rime",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Cyan"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Heart of Ice",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Cyan"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Malicious Intent",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Pink"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Arcane Focus",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
         "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Arcane Will",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Intrinsic"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Wandslinger",
       "TreeArea": "Witch",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Accelerating"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Golem Commander",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
         "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Grave Intentions",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
         "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
         "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Vampirism",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Fertile"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Static Blows",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Essence Surge",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Indomitable Army",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Prismatic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Red"
       ],
-      "Distance": -1
+      "Distance": 8
     },
     {
       "Name": "Ravenous Horde",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Accelerating"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Nimbleness",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
         "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Steeped in the Profane",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Imbued"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Pink"
       ],
       "Distance": -1
     },
@@ -6687,378 +4826,158 @@
       "Name": "Fingers of Frost",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Utmost Intellect",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Imbued"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Searing Heat",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Yellow"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Light Eater",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Tempering"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Tempest Blast",
       "TreeArea": "Witch",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
         "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Turbulent"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Throatseeker",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
         "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 10
     },
     {
       "Name": "Alacrity",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Intrinsic"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Green"
       ],
-      "Distance": -1
+      "Distance": 9
     },
     {
       "Name": "Elder Power",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Abrasive"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Fusillade",
       "TreeArea": "Witch",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
+        "Accelerating"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 13
     },
     {
       "Name": "Disintegration",
       "TreeArea": "Witch",
       "Catalysts": [
         "Abrasive",
-        "Accelerating",
-        "Fertile",
         "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
         "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 15
     },
     {
       "Name": "Glacial Cage",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Winter\u0027s Embrace",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
+        "Blue"
       ],
-      "Distance": -1
+      "Distance": 11
     },
     {
       "Name": "Efficient Explosives",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
         "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
         "Blue",
-        "Purple"
       ],
-      "Distance": -1
+      "Distance": 12
     },
     {
       "Name": "Cleansed Thoughts",
       "TreeArea": "Witch",
       "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
         "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
       ],
       "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
         "Purple"
       ],
-      "Distance": -1
+      "Distance": 999
     }
 ]
