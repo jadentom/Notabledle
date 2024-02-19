@@ -5,7 +5,7 @@ namespace Notabledle.NotableModel
     public class NotableGame
     {
         // TODO:
-        // Manually populate populated_node_manual_stats.json
+        // Add "you win"
         // Add free play feature
         // Actual CI/CD (manual deploy)
         // Add icon column
@@ -18,7 +18,7 @@ namespace Notabledle.NotableModel
         //   Zoom in when tree area is known and grey out other areas
         // Add code to switch to a new notable every day
         // Prettify UI with CSS
-        Notable targetGem = NotableList.Value[305]; // Rampart in Duelist
+        Notable targetNotable = NotableList.Value[305]; // Rampart in Duelist
         List<Notable> notableGuesses = new List<Notable>();
         List<IPropertyCellFromProperty> propertyCellFromProperties = new List<IPropertyCellFromProperty>()
         {
@@ -42,7 +42,7 @@ namespace Notabledle.NotableModel
             {
                 notableGuesses.Add(notable);
             }
-            var returnValue = DisplayCellsFromGuesses(notableGuesses, targetGem);
+            var returnValue = DisplayCellsFromGuesses(notableGuesses, targetNotable);
             returnValue.Reverse();
             return returnValue;
         }
@@ -62,6 +62,11 @@ namespace Notabledle.NotableModel
         public List<(string Header, string HelpText)> GetHeaders()
         {
             return propertyCellFromProperties.Select(p => (p.HeaderName, p.HelpText)).ToList();
+        }
+
+        public bool IsWin()
+        {
+            return notableGuesses.Contains(targetNotable);
         }
     }
 }

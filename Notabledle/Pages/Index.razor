@@ -34,8 +34,20 @@
         }
     </datalist>
 
-    <input type="submit" />
+    @if (NotableList.AsDictionary.Value.Keys.Contains(currentGuess))
+    {
+        <input id="submitNotableGuess" type="submit" value="Submit guess"/>
+    }
+    else
+    {
+        <input id="submitNotableGuess" type="submit" value="Submit guess" disabled />
+    }
 </form>
+
+@if (notableGame.IsWin())
+{
+    <p>You win!</p>
+}
 
 <table>
     <tr>
@@ -61,6 +73,7 @@
     private string currentGuess = "";
     private List<List<PropertyCell>> gameState = new List<List<PropertyCell>>();
     NotableGame notableGame = new NotableGame();
+    bool canGuessNotable;
 
     private void GuessNotable()
     {
