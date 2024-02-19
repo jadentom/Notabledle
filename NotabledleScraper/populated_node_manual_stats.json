@@ -829,4155 +829,4154 @@
     "Distance": 14
   },
   {
-    {
-      "Name": "Aggressive Bastion",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Noxious"
-      ],
-      "Colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Savage Wounds",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Noxious"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Harpooner",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Noxious"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Lava Lash",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Red",
-        "Orange"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Settling Ash",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Red",
-        "Orange"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Concussive Force",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Red",
-        "Orange"
-      ],
-      "Distance": 17
-    },
-    {
-      "Name": "Disemboweling",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Unstable"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Hearty",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Barbarism",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Fertile",
-        "Prismatic"
-      ],
-      "Colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Stamina",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Juggernaut",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Fertile",
-        "Tempering"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Cannibalistic Rite",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Vanquisher",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Noxious"
-      ],
-      "Colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Inexorable",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Tempering"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Natural Authority",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Escalation",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive"
-      ],
-      "Colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Lust for Carnage",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Noxious"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Arsonist",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Fertile",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Magmatic Strikes",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Noxious",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Utmost Might",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Cauterisation",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Red",
-        "Orange"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Spinecruncher",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Noxious"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Ancestral Knowledge",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Butchery",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Intrinsic",
-        "Noxious"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Strong Arm",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Intrinsic",
-        "Noxious"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Warrior Training",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Spiked Bulwark",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Noxious",
-        "Tempering"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Robust",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Diamond Skin",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Prismatic"
-      ],
-      "Colors": [
-        "Red",
-        "Purple"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Blacksmith\u0027s Clout",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Noxious",
-        "Unstable"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Harvester of Foes",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Noxious"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Bloodless",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Steadfast",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Goliath",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Deep Breaths",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Fending",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Pink"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Born to Fight",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Accelerating",
-        "Intrinsic",
-        "Noxious"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 5
-    },
-    {
-      "Name": "Heart of the Warrior",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Fertile",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 5
-    },
-    {
-      "Name": "Versatility",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Red",
-        "Green"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Warrior\u0027s Blood",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Fertile",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Pink"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Tribal Fury",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Red",
-        "Yellow"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Kinetic Impacts",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Noxious"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Unfaltering",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Soul of Steel",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Prismatic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Way of the Warrior",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Fertile",
-        "Intrinsic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 999
-    },
-    {
-      "Name": "Invigorating Blaze",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Fertile",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Proficiency",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Prismatic Skin",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Prismatic"
-      ],
-      "Colors": [
-        "Blue",
-        "Purple"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Eagle Eye",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Unstable"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Martial Experience",
-      "TreeArea": "Marauder",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Noxious",
-        "Prismatic",
-        "Tempering",
-        "Turbulent",
-        "Unstable"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Avatar of the Hunt",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Tempering"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Weathered Hunter",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Prismatic"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Beef",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": -1
-    },
-    {
-      "Name": "Crystal Skin",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Prismatic"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Freedom of Movement",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Accelerating",
-        "Intrinsic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Finesse",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Accelerating",
-        "Abrasive",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 5
-    },
-    {
-      "Name": "Charisma",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Deadly Inclinations",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Fertile",
-        "Intrinsic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 999
-    },
-    {
-      "Name": "Farsight",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Thick Skin",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Fangs of Frost",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Ballistics",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 5
-    },
-    {
-      "Name": "Druidic Rite",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 6
-    },
-    {
-      "Name": "Heart of Oak",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red",
-        "Yellow"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Primal Spirit",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Fertile",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Cyan"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Excess Sustenance",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Replenishing Remedies",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Field Medicine",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 6
-    },
-    {
-      "Name": "Utmost Swiftness",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Toxic Strikes",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Noxious"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Aspect of the Eagle",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating"
-      ],
-      "Colors": [
-        "Red",
-        "Green"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Entrench",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Aspect of Stone",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 999
-    },
-    {
-      "Name": "Quickstep",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Accelerating"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "One With Nature",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Turbulent",
-        "Unstable"
-      ],
-      "Colors": [
-        "Red",
-        "Purple"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Twin Terrors",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Unstable"
-      ],
-      "Colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Revenge of the Hunted",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Fertile",
-        "Tempering"
-      ],
-      "Colors": [
-        "Red",
-        "Green"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Expert Hunter",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Imbued"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Lethality",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Orange",
-        "Yellow"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Longshot",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Adjacent Animosity",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Pink",
-        "Red",
-        "Orange",
-        "Yellow",
-        "Green",
-        "Cyan",
-        "Blue",
-        "Purple"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Thief\u0027s Craft",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Weapon Artistry",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Poisonous Fangs",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Noxious"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Aspect of the Lynx",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Unstable"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Intuition",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Fertile",
-        "Tempering"
-      ],
-      "Colors": [
-        "Red",
-        "Green"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Fleetfoot",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Accelerating",
-        "Tempering"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Essence Sap",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Perfectionist",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Accelerating"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Forces of Nature",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange",
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Natural Remedies",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Flash Freeze",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Winter Spirit",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Noxious",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Silent Steps",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Tempering"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Primeval Force",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Fervour",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Survivalist",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Prismatic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Herbalism",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Swift Venoms",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Accelerating",
-        "Noxious"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Inveterate",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Red",
-        "Green"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Relentless Pursuit",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Imbued"
-      ],
-      "Colors": [
-        "Red",
-        "Yellow"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Heartseeker",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Acuity",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Multishot",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Watchtowers",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Master Fletcher",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive"
-      ],
-      "Colors": [
-        "Red",
-        "Green"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "King of the Hill",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Unstable"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Brutal Blade",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive"
-      ],
-      "Colors": [
-        "Red",
-        "Green"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Fatal Blade",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-        "Abrasive",
-        "Unstable"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Trick Shot",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Split Shot",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Piercing Shots",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Vengeant Cascade",
-      "TreeArea": "Ranger",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Red",
-        "Green"
-      ],
-      "Distance": 999
-    },
-    {
-      "Name": "Inspiring Bond",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Dynamo",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Veteran Soldier",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile",
-        "Noxious"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Relentless",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile",
-        "Noxious"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Forethought",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Dreamer",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Ash, Frost and Storm",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange",
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Constitution",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Path of the Warrior",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Intrinsic",
-        "Noxious",
-        "Tempering"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 4
-    },
-    {
-      "Name": "Berserking",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Accelerating"
-      ],
-      "Colors": [
-        "Red",
-        "Purple"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Shaper",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 5
-    },
-    {
-      "Name": "Skittering Runes",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile",
-        "Imbued"
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Decay Ward",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Potency of Will",
-      "TreeArea": "Scion",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Battle Rouse",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Totemic Zeal",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Imbued"
-      ],
-      "Colors": [
-        "Red",
-        "Green"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Foresight",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Path of the Savant",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile",
-        "Imbued",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 4
-    },
-    {
-      "Name": "Sentinel",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Prismatic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Yellow"
-      ],
-      "Distance": 5
-    },
-    {
-      "Name": "Window of Opportunity",
-      "TreeArea": "Scion",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Exceptional Performance",
-      "TreeArea": "Scion",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Arcane Chemistry",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Potent Connections",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Accelerating",
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Thrill Killer",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Hired Killer",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Harrier",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Imbued"
-      ],
-      "Colors": [
-        "Cyan"
-      ],
-      "Distance": 5
-    },
-    {
-      "Name": "Profane Chemistry",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Path of the Hunter",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Abrasive",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 4
-    },
-    {
-      "Name": "Reflexes",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Tempering"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Leadership",
-      "TreeArea": "Scion",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Pink",
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Destructive Apparatus",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Accelerating"
-      ],
-      "Colors": [
-        "Yellow",
-        "Green"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Hardened Scars",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red",
-        "Yellow"
-      ],
-      "Distance": 999
-    },
-    {
-      "Name": "True Strike",
-      "TreeArea": "Scion",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Master Sapper",
-      "TreeArea": "Scion",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Overcharged",
-      "TreeArea": "Scion",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Melding",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Fertile",
-        "Tempering"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Undertaker",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Yellow"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Arcane Expanse",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Imbued"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Tolerance",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Prismatic"
-      ],
-      "Colors": [
-        "Pink",
-        "Green"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Physique",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Imbued"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Wasting",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Noxious",
-        "Prismatic"
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Dire Torment",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Conjured Barrier",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Fertile",
-        "Imbued"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Mysticism",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Accelerating",
-        "Fertile",
-        "Imbued",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Soul Siphon",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Blast Waves",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Trickery",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Imbued",
-        "Unstable"
-      ],
-      "Colors": [
-        "Cyan"
-      ],
-      "Distance": 5
-    },
-    {
-      "Name": "Coordination",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Imbued",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 5
-    },
-    {
-      "Name": "Adder\u0027s Touch",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Noxious",
-        "Unstable"
-      ],
-      "Colors": [
-        "Yellow",
-        "Green"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Taste for Blood",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Nightstalker",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Fertile",
-        "Unstable"
-      ],
-      "Colors": [
-        "Cyan"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "High Voltage",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Snowforged",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange",
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Blood Siphon",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Fertile",
-        "Imbued"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Arcane Sanctuary",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Imbued"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Influence",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Yellow"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Void Barrier",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Saboteur",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Assassination",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Elemental Focus",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange",
-        "Blue"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Entropy",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Green",
-        "Purple"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Will of Blades",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Noxious",
-        "Unstable"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Sleight of Hand",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Successive Detonations",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Instinct",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Tempering"
-      ],
-      "Colors": [
-        "Cyan"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Claws of the Falcon",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Unstable"
-      ],
-      "Colors": [
-        "Yellow"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Whispers of Doom",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Imbued"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Life Raker",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Fertile"
-      ],
-      "Colors": [
-        "Yellow"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Prowess",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Imbued"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Serpentine Spellslinger",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Imbued",
-        "Noxious"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Resourcefulness",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Fertile",
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Coldhearted Calculation",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Fertile",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 6
-    },
-    {
-      "Name": "Fangs of the Viper",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Accelerating",
-        "Intrinsic",
-        "Noxious"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 6
-    },
-    {
-      "Name": "Growth and Decay",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Written in Blood",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Fertile",
-        "Intrinsic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Expeditious Munitions",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Accelerating"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Overprepared",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Yellow",
-        "Green"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Master of Blades",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Intrinsic",
-        "Noxious"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Hunter\u0027s Gambit",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Noxious"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Atrophy",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Noxious"
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 16
-    },
-    {
-      "Name": "Doom Cast",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Imbued",
-        "Unstable"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Ethereal Feast",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Imbued",
-        "Tempering"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Soul Thief",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Clever Thief",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red",
-        "Purple"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Mind Drinker",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": -1
-    },
-    {
-      "Name": "Frenetic",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Infused",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Blood Drinker",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Arcing Blows",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Force Shaper",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Accelerating",
-        "Noxious"
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 16
-    },
-    {
-      "Name": "Season of Ice",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Careful Conservationist",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "From the Shadows",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating"
-      ],
-      "Colors": [
-        "Green",
-        "Blue"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Circle of Life",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Depth Perception",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Unstable"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Volatile Mines",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Accelerating"
-      ],
-      "Colors": [
-        "Yellow",
-        "Green"
-      ],
-      "Distance": 17
-    },
-    {
-      "Name": "Devastating Devices",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Explosive Elements",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Mark the Prey",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Imbued"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Backstabbing",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Unstable"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Flaying",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating"
-      ],
-      "Colors": [
-        "Red",
-        "Green"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Claws of the Hawk",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Unstable"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Claws of the Magpie",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Fatal Toxins",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Noxious"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Clever Construction",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Unstable Munitions",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Green",
-        "Cyan"
-      ],
-      "Distance": 16
-    },
-    {
-      "Name": "High Explosives",
-      "TreeArea": "Shadow",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Yellow",
-        "Green"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Crusader",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 999
-    },
-    {
-      "Name": "Divine Judgement",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange",
-        "Blue"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Divine Fury",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Noxious",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Divine Wrath",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Noxious",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Persistence",
-      "TreeArea": "Templar",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 999
-    },
-    {
-      "Name": "Smashing Strikes",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive",
-        "Unstable"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Counterweight",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Whirling Barrier",
-      "TreeArea": "Templar",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Yellow"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Righteous Army",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Redemption",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Imbued"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Spiritual Aid",
-      "TreeArea": "Templar",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Surge of Vigour",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Powerful Bond",
-      "TreeArea": "Templar",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Galvanic Hammer",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Pain Forger",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive",
-        "Unstable"
-      ],
-      "Colors": [
-        "Red",
-        "Orange"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Shamanistic Fury",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Accelerating"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Primal Manifestation",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Green",
-        "Blue"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Arcane Capacitor",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Endurance",
-      "TreeArea": "Templar",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Overcharge",
-      "TreeArea": "Templar",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Sanctum of Thought",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Tempering",
-        "Unstable"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Faith and Steel",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Prismatic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Devotion",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Holy Fire",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Prismatic",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Sovereignty",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Runesmith",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Accelerating",
-        "Imbued"
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Purity of Flesh",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile",
-        "Prismatic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Blunt Trauma",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive",
-        "Unstable"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "One with the River",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Red",
-        "Orange"
-      ],
-      "Distance": -1
-    },
-    {
-      "Name": "Tireless",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Arcane Potency",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Imbued",
-        "Unstable"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Safeguard",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Prismatic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Explosive Impact",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Fearsome Force",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Expertise",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Sanctuary",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Prismatic"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Steelwood Stance",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive",
-        "Tempering"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Divine Fervour",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive",
-        "Intrinsic",
-        "Unstable"
-      ],
-      "Colors": [
-        "Orange",
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Holy Dominion",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Prismatic",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange",
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Light of Divinity",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Imbued",
-        "Intrinsic",
-        "Unstable"
-      ],
-      "Colors": [
-        "Yellow"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Dark Arts",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Imbued"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Empowered Bond",
-      "TreeArea": "Templar",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Trial of the Faith",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile",
-        "Tempering"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Spiritual Command",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Imbued"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Amplify",
-      "TreeArea": "Templar",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Righteous Decree",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Righteous Fury",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Combat Stamina",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile",
-        "Tempering"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Retribution",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Yellow"
-      ],
-      "Distance": 5
-    },
-    {
-      "Name": "Discipline and Training",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Precision",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Imbued",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Sanctity",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile",
-        "Imbued",
-        "Tempering"
-      ],
-      "Colors": [
-        "Red",
-        "Purple"
-      ],
-      "Distance": 5
-    },
-    {
-      "Name": "Arcane Guarding",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Storm Weaver",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Sacrifice",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Yellow",
-        "Blue"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Serpent Stance",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Gravepact",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Abrasive"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Agility",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Anointed Flesh",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Prismatic"
-      ],
-      "Colors": [
-        "Blue",
-        "Purple"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Insightfulness",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile",
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Asylum",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Imbued",
-        "Tempering"
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Quick Recovery",
-      "TreeArea": "Templar",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Defiled Forces",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Enigmatic Reach",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Imbued"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Might",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Death Attunement",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Prism Weave",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Acrimony",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Yellow"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Explosive Runes",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Unnatural Calm",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Prismatic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Heart of Darkness",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Noxious"
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Corruption",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Pink"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Last Rites",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Essence Infusion",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Essence Extraction",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Brand Equity",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Crackling Speed",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Accelerating",
-        "Imbued",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Shaman\u0027s Dominion",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Enduring Bond",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Mental Rapidity",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Accelerating",
-        "Fertile",
-        "Imbued"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Disciple of the Forbidden",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Cruel Preparation",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile",
-        "Prismatic"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Fire Walker",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Accelerating",
-        "Imbued",
-        "Prismatic",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Frost Walker",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Accelerating",
-        "Imbued",
-        "Prismatic",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Cyan"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Lightning Walker",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Accelerating",
-        "Imbued",
-        "Prismatic",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Deep Thoughts",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Breath of Flames",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Heart of Flame",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Orange"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Infused Flesh",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Enigmatic Defence",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Imbued"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Breath of Lightning",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Heart of Thunder",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 14
-    },
-    {
-      "Name": "Instability",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Tranquility",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 999
-    },
-    {
-      "Name": "Blast Radius",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Annihilation",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Imbued",
-        "Unstable"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Deep Wisdom",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile",
-        "Intrinsic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 5
-    },
-    {
-      "Name": "Heart and Soul",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Lord of the Dead",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue",
-        "Purple"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Arcanist\u0027s Dominion",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Accelerating",
-        "Imbued",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Blue",
-        "Purple"
-      ],
-      "Distance": 5
-    },
-    {
-      "Name": "Practical Application",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Intrinsic",
-        "Prismatic"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 7
-    },
-    {
-      "Name": "Mystic Talents",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile",
-        "Imbued",
-        "Intrinsic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 999
-    },
-    {
-      "Name": "Presage",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Discord Artisan",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue",
-        "Purple"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Mystic Bulwark",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Prodigal Perfection",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile",
-        "Imbued"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Breath of Rime",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Cyan"
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Heart of Ice",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Cyan"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Malicious Intent",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Pink"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Arcane Focus",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Intrinsic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Arcane Will",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile",
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Wandslinger",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Golem Commander",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Yellow",
-        "Purple"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Grave Intentions",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile",
-        "Prismatic",
-        "Tempering"
-      ],
-      "Colors": [
-        "Pink",
-        "Purple"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Vampirism",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Static Blows",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue",
-        "Purple"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Essence Surge",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Indomitable Army",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Prismatic"
-      ],
-      "Colors": [
-        "Red"
-      ],
-      "Distance": 8
-    },
-    {
-      "Name": "Ravenous Horde",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Accelerating"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Nimbleness",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Accelerating",
-        "Imbued",
-        "Unstable"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Steeped in the Profane",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Imbued"
-      ],
-      "Colors": [
-        "Pink"
-      ],
-      "Distance": -1
-    },
-    {
-      "Name": "Fingers of Frost",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Utmost Intellect",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Imbued"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Searing Heat",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Turbulent"
-      ],
-      "Colors": [
-        "Yellow"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Light Eater",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Imbued",
-        "Tempering"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Tempest Blast",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Abrasive",
-        "Noxious",
-        "Turbulent"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Throatseeker",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Unstable"
-      ],
-      "Colors": [
-        "Red",
-        "Blue"
-      ],
-      "Distance": 10
-    },
-    {
-      "Name": "Alacrity",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Intrinsic"
-      ],
-      "Colors": [
-        "Green"
-      ],
-      "Distance": 9
-    },
-    {
-      "Name": "Elder Power",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Abrasive"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Fusillade",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Abrasive",
-        "Accelerating"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 13
-    },
-    {
-      "Name": "Disintegration",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Abrasive",
-        "Imbued",
-        "Unstable"
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 15
-    },
-    {
-      "Name": "Glacial Cage",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Winter\u0027s Embrace",
-      "TreeArea": "Witch",
-      "Catalysts": [
-      ],
-      "Colors": [
-        "Blue"
-      ],
-      "Distance": 11
-    },
-    {
-      "Name": "Efficient Explosives",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Fertile",
-      ],
-      "Colors": [
-        "Blue",
-      ],
-      "Distance": 12
-    },
-    {
-      "Name": "Cleansed Thoughts",
-      "TreeArea": "Witch",
-      "Catalysts": [
-        "Prismatic",
-      ],
-      "Colors": [
-        "Purple"
-      ],
-      "Distance": 999
-    }
+    "Name": "Aggressive Bastion",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Noxious"
+    ],
+    "Colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Savage Wounds",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Noxious"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Harpooner",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Noxious"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Lava Lash",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Red",
+      "Orange"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Settling Ash",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Red",
+      "Orange"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Concussive Force",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Red",
+      "Orange"
+    ],
+    "Distance": 17
+  },
+  {
+    "Name": "Disemboweling",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Unstable"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Hearty",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Barbarism",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Fertile",
+      "Prismatic"
+    ],
+    "Colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Stamina",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Juggernaut",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Fertile",
+      "Tempering"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Cannibalistic Rite",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Vanquisher",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Noxious"
+    ],
+    "Colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Inexorable",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Tempering"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Natural Authority",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Escalation",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive"
+    ],
+    "Colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Lust for Carnage",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Fertile",
+      "Noxious"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Arsonist",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Fertile",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Magmatic Strikes",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Noxious",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Utmost Might",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Cauterisation",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Red",
+      "Orange"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Spinecruncher",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Noxious"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Ancestral Knowledge",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Butchery",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Intrinsic",
+      "Noxious"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Strong Arm",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Intrinsic",
+      "Noxious"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Warrior Training",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Spiked Bulwark",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Noxious",
+      "Tempering"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Robust",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Diamond Skin",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Prismatic"
+    ],
+    "Colors": [
+      "Red",
+      "Purple"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Blacksmith\u0027s Clout",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Noxious",
+      "Unstable"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Harvester of Foes",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Noxious"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Bloodless",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Steadfast",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Goliath",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Deep Breaths",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Fending",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Pink"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Born to Fight",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Accelerating",
+      "Intrinsic",
+      "Noxious"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 5
+  },
+  {
+    "Name": "Heart of the Warrior",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Fertile",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 5
+  },
+  {
+    "Name": "Versatility",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Red",
+      "Green"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Warrior\u0027s Blood",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Fertile",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Pink"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Tribal Fury",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Red",
+      "Yellow"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Kinetic Impacts",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Noxious"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Unfaltering",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Soul of Steel",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Prismatic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Way of the Warrior",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Fertile",
+      "Intrinsic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 999
+  },
+  {
+    "Name": "Invigorating Blaze",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Fertile",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Proficiency",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Prismatic Skin",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Prismatic"
+    ],
+    "Colors": [
+      "Blue",
+      "Purple"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Eagle Eye",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Unstable"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Martial Experience",
+    "TreeArea": "Marauder",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Fertile",
+      "Imbued",
+      "Intrinsic",
+      "Noxious",
+      "Prismatic",
+      "Tempering",
+      "Turbulent",
+      "Unstable"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Avatar of the Hunt",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Tempering"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Weathered Hunter",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Prismatic"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Beef",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": -1
+  },
+  {
+    "Name": "Crystal Skin",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Prismatic"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Freedom of Movement",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Accelerating",
+      "Intrinsic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Finesse",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Accelerating",
+      "Abrasive",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 5
+  },
+  {
+    "Name": "Charisma",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Deadly Inclinations",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Fertile",
+      "Intrinsic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 999
+  },
+  {
+    "Name": "Farsight",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Thick Skin",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Fangs of Frost",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Ballistics",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 5
+  },
+  {
+    "Name": "Druidic Rite",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 6
+  },
+  {
+    "Name": "Heart of Oak",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red",
+      "Yellow"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Primal Spirit",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Fertile",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Cyan"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Excess Sustenance",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Replenishing Remedies",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Field Medicine",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 6
+  },
+  {
+    "Name": "Utmost Swiftness",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Toxic Strikes",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Noxious"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Aspect of the Eagle",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating"
+    ],
+    "Colors": [
+      "Red",
+      "Green"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Entrench",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Aspect of Stone",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 999
+  },
+  {
+    "Name": "Quickstep",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Accelerating"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "One With Nature",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Turbulent",
+      "Unstable"
+    ],
+    "Colors": [
+      "Red",
+      "Purple"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Twin Terrors",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Unstable"
+    ],
+    "Colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Revenge of the Hunted",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Fertile",
+      "Tempering"
+    ],
+    "Colors": [
+      "Red",
+      "Green"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Expert Hunter",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Imbued"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Lethality",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Orange",
+      "Yellow"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Longshot",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Adjacent Animosity",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Pink",
+      "Red",
+      "Orange",
+      "Yellow",
+      "Green",
+      "Cyan",
+      "Blue",
+      "Purple"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Thief\u0027s Craft",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Weapon Artistry",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Poisonous Fangs",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Noxious"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Aspect of the Lynx",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Unstable"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Intuition",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Fertile",
+      "Tempering"
+    ],
+    "Colors": [
+      "Red",
+      "Green"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Fleetfoot",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Accelerating",
+      "Tempering"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Essence Sap",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Perfectionist",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Accelerating"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Forces of Nature",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange",
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Natural Remedies",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Flash Freeze",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Winter Spirit",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Noxious",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Silent Steps",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Tempering"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Primeval Force",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Fervour",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Survivalist",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Prismatic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Herbalism",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Swift Venoms",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Accelerating",
+      "Noxious"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Inveterate",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Red",
+      "Green"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Relentless Pursuit",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Imbued"
+    ],
+    "Colors": [
+      "Red",
+      "Yellow"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Heartseeker",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Acuity",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Multishot",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Watchtowers",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Master Fletcher",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive"
+    ],
+    "Colors": [
+      "Red",
+      "Green"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "King of the Hill",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Unstable"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Brutal Blade",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive"
+    ],
+    "Colors": [
+      "Red",
+      "Green"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Fatal Blade",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+      "Abrasive",
+      "Unstable"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Trick Shot",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Split Shot",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Piercing Shots",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Vengeant Cascade",
+    "TreeArea": "Ranger",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Red",
+      "Green"
+    ],
+    "Distance": 999
+  },
+  {
+    "Name": "Inspiring Bond",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Dynamo",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Veteran Soldier",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile",
+      "Noxious"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Relentless",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile",
+      "Noxious"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Forethought",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Dreamer",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Ash, Frost and Storm",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange",
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Constitution",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Path of the Warrior",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Intrinsic",
+      "Noxious",
+      "Tempering"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 4
+  },
+  {
+    "Name": "Berserking",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Accelerating"
+    ],
+    "Colors": [
+      "Red",
+      "Purple"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Shaper",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 5
+  },
+  {
+    "Name": "Skittering Runes",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile",
+      "Imbued"
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Decay Ward",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Potency of Will",
+    "TreeArea": "Scion",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Battle Rouse",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Totemic Zeal",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Imbued"
+    ],
+    "Colors": [
+      "Red",
+      "Green"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Foresight",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Path of the Savant",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile",
+      "Imbued",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 4
+  },
+  {
+    "Name": "Sentinel",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Prismatic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Yellow"
+    ],
+    "Distance": 5
+  },
+  {
+    "Name": "Window of Opportunity",
+    "TreeArea": "Scion",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Exceptional Performance",
+    "TreeArea": "Scion",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Arcane Chemistry",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Potent Connections",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Accelerating",
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Thrill Killer",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Hired Killer",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Harrier",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Imbued"
+    ],
+    "Colors": [
+      "Cyan"
+    ],
+    "Distance": 5
+  },
+  {
+    "Name": "Profane Chemistry",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Path of the Hunter",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Abrasive",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 4
+  },
+  {
+    "Name": "Reflexes",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Tempering"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Leadership",
+    "TreeArea": "Scion",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Pink",
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Destructive Apparatus",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Accelerating"
+    ],
+    "Colors": [
+      "Yellow",
+      "Green"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Hardened Scars",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red",
+      "Yellow"
+    ],
+    "Distance": 999
+  },
+  {
+    "Name": "True Strike",
+    "TreeArea": "Scion",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Master Sapper",
+    "TreeArea": "Scion",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Overcharged",
+    "TreeArea": "Scion",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Melding",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Fertile",
+      "Tempering"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Undertaker",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Yellow"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Arcane Expanse",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Imbued"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Tolerance",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Prismatic"
+    ],
+    "Colors": [
+      "Pink",
+      "Green"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Physique",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Imbued"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Wasting",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Noxious",
+      "Prismatic"
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Dire Torment",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Conjured Barrier",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Fertile",
+      "Imbued"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Mysticism",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Accelerating",
+      "Fertile",
+      "Imbued",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Soul Siphon",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Blast Waves",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Trickery",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Imbued",
+      "Unstable"
+    ],
+    "Colors": [
+      "Cyan"
+    ],
+    "Distance": 5
+  },
+  {
+    "Name": "Coordination",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Imbued",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 5
+  },
+  {
+    "Name": "Adder\u0027s Touch",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Noxious",
+      "Unstable"
+    ],
+    "Colors": [
+      "Yellow",
+      "Green"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Taste for Blood",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Nightstalker",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Fertile",
+      "Unstable"
+    ],
+    "Colors": [
+      "Cyan"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "High Voltage",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Snowforged",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange",
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Blood Siphon",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Fertile",
+      "Imbued"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Arcane Sanctuary",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Imbued"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Influence",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Yellow"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Void Barrier",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Saboteur",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Assassination",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Elemental Focus",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange",
+      "Blue"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Entropy",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Green",
+      "Purple"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Will of Blades",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Noxious",
+      "Unstable"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Sleight of Hand",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Successive Detonations",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Instinct",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Tempering"
+    ],
+    "Colors": [
+      "Cyan"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Claws of the Falcon",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Unstable"
+    ],
+    "Colors": [
+      "Yellow"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Whispers of Doom",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Imbued"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Life Raker",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Fertile"
+    ],
+    "Colors": [
+      "Yellow"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Prowess",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Imbued"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Serpentine Spellslinger",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Imbued",
+      "Noxious"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Resourcefulness",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Fertile",
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Coldhearted Calculation",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Fertile",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 6
+  },
+  {
+    "Name": "Fangs of the Viper",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Accelerating",
+      "Intrinsic",
+      "Noxious"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 6
+  },
+  {
+    "Name": "Growth and Decay",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Written in Blood",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Fertile",
+      "Intrinsic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Expeditious Munitions",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Accelerating"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Overprepared",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Yellow",
+      "Green"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Master of Blades",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Intrinsic",
+      "Noxious"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Hunter\u0027s Gambit",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Noxious"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Atrophy",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Noxious"
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 16
+  },
+  {
+    "Name": "Doom Cast",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Imbued",
+      "Unstable"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Ethereal Feast",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Imbued",
+      "Tempering"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Soul Thief",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Clever Thief",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red",
+      "Purple"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Mind Drinker",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": -1
+  },
+  {
+    "Name": "Frenetic",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Infused",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Blood Drinker",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Arcing Blows",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Force Shaper",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Accelerating",
+      "Noxious"
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 16
+  },
+  {
+    "Name": "Season of Ice",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Careful Conservationist",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "From the Shadows",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating"
+    ],
+    "Colors": [
+      "Green",
+      "Blue"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Circle of Life",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Depth Perception",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Unstable"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Volatile Mines",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Accelerating"
+    ],
+    "Colors": [
+      "Yellow",
+      "Green"
+    ],
+    "Distance": 17
+  },
+  {
+    "Name": "Devastating Devices",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Explosive Elements",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Mark the Prey",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Imbued"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Backstabbing",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Unstable"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Flaying",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating"
+    ],
+    "Colors": [
+      "Red",
+      "Green"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Claws of the Hawk",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Unstable"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Claws of the Magpie",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Fatal Toxins",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Noxious"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Clever Construction",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Unstable Munitions",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Green",
+      "Cyan"
+    ],
+    "Distance": 16
+  },
+  {
+    "Name": "High Explosives",
+    "TreeArea": "Shadow",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Yellow",
+      "Green"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Crusader",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 999
+  },
+  {
+    "Name": "Divine Judgement",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange",
+      "Blue"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Divine Fury",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Noxious",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Divine Wrath",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Noxious",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Persistence",
+    "TreeArea": "Templar",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 999
+  },
+  {
+    "Name": "Smashing Strikes",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive",
+      "Unstable"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Counterweight",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Whirling Barrier",
+    "TreeArea": "Templar",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Yellow"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Righteous Army",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Redemption",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Imbued"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Spiritual Aid",
+    "TreeArea": "Templar",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Surge of Vigour",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Powerful Bond",
+    "TreeArea": "Templar",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Galvanic Hammer",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Pain Forger",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive",
+      "Unstable"
+    ],
+    "Colors": [
+      "Red",
+      "Orange"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Shamanistic Fury",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Accelerating"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Primal Manifestation",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Green",
+      "Blue"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Arcane Capacitor",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Endurance",
+    "TreeArea": "Templar",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Overcharge",
+    "TreeArea": "Templar",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Sanctum of Thought",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Tempering",
+      "Unstable"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Faith and Steel",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Prismatic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Devotion",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Holy Fire",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Prismatic",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Sovereignty",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Runesmith",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Accelerating",
+      "Imbued"
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Purity of Flesh",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile",
+      "Prismatic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Blunt Trauma",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive",
+      "Unstable"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "One with the River",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Red",
+      "Orange"
+    ],
+    "Distance": -1
+  },
+  {
+    "Name": "Tireless",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Arcane Potency",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Imbued",
+      "Unstable"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Safeguard",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Prismatic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Explosive Impact",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Fearsome Force",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Expertise",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Sanctuary",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Prismatic"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Steelwood Stance",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive",
+      "Tempering"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Divine Fervour",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive",
+      "Intrinsic",
+      "Unstable"
+    ],
+    "Colors": [
+      "Orange",
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Holy Dominion",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Prismatic",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange",
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Light of Divinity",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Imbued",
+      "Intrinsic",
+      "Unstable"
+    ],
+    "Colors": [
+      "Yellow"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Dark Arts",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Imbued"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Empowered Bond",
+    "TreeArea": "Templar",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Trial of the Faith",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile",
+      "Tempering"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Spiritual Command",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Imbued"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Amplify",
+    "TreeArea": "Templar",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Righteous Decree",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Righteous Fury",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Combat Stamina",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile",
+      "Tempering"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Retribution",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Yellow"
+    ],
+    "Distance": 5
+  },
+  {
+    "Name": "Discipline and Training",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Precision",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Imbued",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Sanctity",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile",
+      "Imbued",
+      "Tempering"
+    ],
+    "Colors": [
+      "Red",
+      "Purple"
+    ],
+    "Distance": 5
+  },
+  {
+    "Name": "Arcane Guarding",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Storm Weaver",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Sacrifice",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Yellow",
+      "Blue"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Serpent Stance",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Gravepact",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Abrasive"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Agility",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Anointed Flesh",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Prismatic"
+    ],
+    "Colors": [
+      "Blue",
+      "Purple"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Insightfulness",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile",
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Asylum",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Imbued",
+      "Tempering"
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Quick Recovery",
+    "TreeArea": "Templar",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Defiled Forces",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Enigmatic Reach",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Imbued"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Might",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Death Attunement",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Prism Weave",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Acrimony",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Yellow"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Explosive Runes",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Unnatural Calm",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Prismatic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Heart of Darkness",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Noxious"
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Corruption",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Pink"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Last Rites",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Essence Infusion",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Essence Extraction",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Brand Equity",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Crackling Speed",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Accelerating",
+      "Imbued",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Shaman\u0027s Dominion",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Enduring Bond",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Mental Rapidity",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Accelerating",
+      "Fertile",
+      "Imbued"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Disciple of the Forbidden",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Cruel Preparation",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile",
+      "Prismatic"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Fire Walker",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Accelerating",
+      "Imbued",
+      "Prismatic",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Frost Walker",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Accelerating",
+      "Imbued",
+      "Prismatic",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Cyan"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Lightning Walker",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Accelerating",
+      "Imbued",
+      "Prismatic",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Deep Thoughts",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Breath of Flames",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Heart of Flame",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Orange"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Infused Flesh",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Enigmatic Defence",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Imbued"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Breath of Lightning",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Heart of Thunder",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 14
+  },
+  {
+    "Name": "Instability",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Tranquility",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 999
+  },
+  {
+    "Name": "Blast Radius",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Annihilation",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Imbued",
+      "Unstable"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Deep Wisdom",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile",
+      "Intrinsic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 5
+  },
+  {
+    "Name": "Heart and Soul",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Lord of the Dead",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue",
+      "Purple"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Arcanist\u0027s Dominion",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Accelerating",
+      "Imbued",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Blue",
+      "Purple"
+    ],
+    "Distance": 5
+  },
+  {
+    "Name": "Practical Application",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Intrinsic",
+      "Prismatic"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 7
+  },
+  {
+    "Name": "Mystic Talents",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile",
+      "Imbued",
+      "Intrinsic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 999
+  },
+  {
+    "Name": "Presage",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Discord Artisan",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue",
+      "Purple"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Mystic Bulwark",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Prodigal Perfection",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile",
+      "Imbued"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Breath of Rime",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Cyan"
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Heart of Ice",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Cyan"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Malicious Intent",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Pink"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Arcane Focus",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Intrinsic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Arcane Will",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile",
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Wandslinger",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Golem Commander",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Yellow",
+      "Purple"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Grave Intentions",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile",
+      "Prismatic",
+      "Tempering"
+    ],
+    "Colors": [
+      "Pink",
+      "Purple"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Vampirism",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Static Blows",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue",
+      "Purple"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Essence Surge",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Indomitable Army",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Prismatic"
+    ],
+    "Colors": [
+      "Red"
+    ],
+    "Distance": 8
+  },
+  {
+    "Name": "Ravenous Horde",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Accelerating"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Nimbleness",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Accelerating",
+      "Imbued",
+      "Unstable"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Steeped in the Profane",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Imbued"
+    ],
+    "Colors": [
+      "Pink"
+    ],
+    "Distance": -1
+  },
+  {
+    "Name": "Fingers of Frost",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Utmost Intellect",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Imbued"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Searing Heat",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Turbulent"
+    ],
+    "Colors": [
+      "Yellow"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Light Eater",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Imbued",
+      "Tempering"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Tempest Blast",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Abrasive",
+      "Noxious",
+      "Turbulent"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Throatseeker",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Unstable"
+    ],
+    "Colors": [
+      "Red",
+      "Blue"
+    ],
+    "Distance": 10
+  },
+  {
+    "Name": "Alacrity",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Intrinsic"
+    ],
+    "Colors": [
+      "Green"
+    ],
+    "Distance": 9
+  },
+  {
+    "Name": "Elder Power",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Abrasive"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Fusillade",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Abrasive",
+      "Accelerating"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 13
+  },
+  {
+    "Name": "Disintegration",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Abrasive",
+      "Imbued",
+      "Unstable"
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 15
+  },
+  {
+    "Name": "Glacial Cage",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Winter\u0027s Embrace",
+    "TreeArea": "Witch",
+    "Catalysts": [
+    ],
+    "Colors": [
+      "Blue"
+    ],
+    "Distance": 11
+  },
+  {
+    "Name": "Efficient Explosives",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Fertile",
+    ],
+    "Colors": [
+      "Blue",
+    ],
+    "Distance": 12
+  },
+  {
+    "Name": "Cleansed Thoughts",
+    "TreeArea": "Witch",
+    "Catalysts": [
+      "Prismatic",
+    ],
+    "Colors": [
+      "Purple"
+    ],
+    "Distance": 999
+  }
 ]
