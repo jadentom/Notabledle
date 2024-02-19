@@ -80,6 +80,7 @@ if (parsedSkillJson is null)
 Console.WriteLine($"Deserialized skill tree successfully. {parsedSkillJson.Groups.Count} groups, {parsedSkillJson.Nodes.Count} nodes.");
 
 var rawManualDataJson = await File.ReadAllTextAsync("populated_node_manual_stats.json");
+// Uncomment this to parse the raw JSON
 //var doc = JsonDocument.Parse(rawSkillJson);
 //var objects = doc.RootElement.EnumerateArray();
 //var parsedManualJson = objects.Select(o => o.Deserialize<NodeManualData>()).ToList();
@@ -103,7 +104,7 @@ foreach (var (key, node) in parsedSkillJson.Nodes)
 }
 var outPath = "output.txt";
 File.WriteAllText(outPath, outString.ToString());
-Console.WriteLine($"Wrote output to {Path.GetFullPath(outPath)}");
+Console.WriteLine($"Wrote generated NotableList output to {Path.GetFullPath(outPath)}");
 
 unpopulatedNodeManualDataList = unpopulatedNodeManualDataList.OrderBy(n => n.TreeArea).ToList();
 var unpopulatedJsonPath = "unpopulated_node_manual_stats.json";
