@@ -7,6 +7,6 @@
         public string HelpText => "Which guess this is.";
 
         public PropertyCell PropertyCellFromProperty(Notable guessGem, Notable targetGem, int i) =>
-            new PropertyCell(i.ToString()){ Color = DisplayColor.Transparent };
+            new PropertyCell((i + 1).ToString()){ Color = DisplayColor.Transparent };
     }
 }

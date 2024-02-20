@@ -7,13 +7,18 @@
     <style>
         table, th, td {
             border: 1px solid black;
-        }
+        },
     </style>
 </head>
 
 <PageTitle>Notabledle</PageTitle>
 
 <h1>Notabledle</h1>
+
+@if (gameState.Count == 0)
+{
+<input type="button" name="randomizeNotableButton" value="Randomize" @onclick="Randomize"/>
+}
 
 <p role="status">Guess count: @gameState.Count</p>
 
@@ -46,7 +51,7 @@
 
 @if (notableGame.IsWin())
 {
-    <p>You win!</p>
+    <p id="winText" style="font-size:x-large">You win!</p>
 }
 
 <table>
@@ -79,5 +84,10 @@
     {
         gameState = notableGame.GuessNotable(currentGuess);
         currentGuess = ""; // Clear the input after making a guess
+    }
+
+    private void Randomize()
+    {
+        notableGame.Randomize();
     }
 }

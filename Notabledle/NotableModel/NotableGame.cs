@@ -5,8 +5,6 @@ namespace Notabledle.NotableModel
     public class NotableGame
     {
         // TODO:
-        // Add "you win"
-        // Add free play feature
         // Actual CI/CD (manual deploy)
         // Add icon column
         // Playtesting
@@ -57,6 +55,18 @@ namespace Notabledle.NotableModel
                 returnValue.Add(row);
             }
             return returnValue;
+        }
+
+        public bool Randomize()
+        {
+            if (notableGuesses.Count > 0)
+            {
+                return false;
+            }
+
+            var targetIndex = Random.Shared.Next(NotableList.Value.Count);
+            targetNotable = NotableList.Value[targetIndex];
+            return true;
         }
 
         public List<(string Header, string HelpText)> GetHeaders()
