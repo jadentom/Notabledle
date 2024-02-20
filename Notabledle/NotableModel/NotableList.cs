@@ -3581,7 +3581,7 @@ new Notable(
     TreeArea.Ranger,
     MasteryType.Projectile,
     new HashSet<Catalyst> {  },
-    new HashSet<KnownColor> { KnownColor.Pink, KnownColor.Red, KnownColor.Orange, KnownColor.Yellow, KnownColor.Green, KnownColor.Cyan, KnownColor.Blue, KnownColor.Purple },
+    new HashSet<KnownColor> { KnownColor.Green },
     11,
     2,
     6,
