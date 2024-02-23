@@ -7,6 +7,13 @@ namespace Notabledle.NotableModel
         // TODO:
         // Actual CI/CD (manual deploy)
         // Add icon column
+        //   Hover over icon for more info
+        //   Icon and description on win
+        // Add extra help 10, 15, 20 guesses
+        //   Icon
+        //   First letter
+        //   Second letter
+        // Change webpage icon, remove sidebar
         // Playtesting
         //   Ordering of columns
         //   Difficulty
