@@ -58,17 +58,20 @@ namespace NotabledleScraper
             var treeArea = TreeAreaFromPosition.Get(associatedGroup.X, associatedGroup.Y);
 
             var groupNodeCount = siblingNodes.Where(n => !n.IsMastery).Count();
+
+            var description = string.Join(", ", node.Stats.Select(s => $"\"{s}\""));
             
             // Comment these out if re-generating the manual stats json
             var manualDataEntry = manualDataDictionary[node.Name];
             outString.AppendLine($@"new Notable(
+    {node.Id},
     ""{node.Name}"",
+    new[] {{ {description} }},
     TreeArea.{treeArea},
     MasteryType.{masteryString},
     new HashSet<Catalyst> {{ {CatalystsFromNodeManualData(manualDataEntry)} }},
     new HashSet<KnownColor> {{ {ColorsFromNodeManualData(manualDataEntry)} }},
     {manualDataEntry.Distance},
-    {node.Stats.Length},
     {siblingNodes.Count()},
     new OilRecipe({string.Join(", ", oils)})),");
 

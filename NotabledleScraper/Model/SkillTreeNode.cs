@@ -33,6 +33,9 @@ namespace NotabledleScraper.Model
         //    "out": [],
         //    "in": []
         //},
+        [JsonPropertyName("skill")]
+        public int? Id { get; set; }
+
         [JsonPropertyName("name")]
         public string? Name { get; set; }
 
