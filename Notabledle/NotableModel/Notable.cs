@@ -6,17 +6,21 @@ namespace Notabledle.NotableModel
 {
     public class Notable
     {
-        public Notable(string name,
+        public Notable(
+            int id,
+            string name,
+            string[] description,
             TreeArea treeArea,
             MasteryType masteryType,
             HashSet<Catalyst> applicableCatalysts,
             HashSet<KnownColor> iconColors,
             int startingDistance,
-            int modifierCount,
             int groupNodeCount,
             OilRecipe oilRecipe)
         {
+            Id = id;
             Name = name;
+            Description = description;
             TreeArea = treeArea;
             MasteryType = masteryType;
             // There could be no applicable catalysts
@@ -31,15 +35,24 @@ namespace Notabledle.NotableModel
             }
             IconColors = iconColors;
             StartingDistance = startingDistance;
-            ModifierCount = modifierCount;
             GroupNodeCount = groupNodeCount;
             OilRecipe = oilRecipe;
         }
 
         /// <summary>
+        /// The numeric id of the notable
+        /// </summary>
+        public int Id { get; }
+
+        /// <summary>
         /// The name of the notable
         /// </summary>
         public string Name { get; }
+
+        /// <summary>
+        /// The description of the notable
+        /// </summary>
+        public string[] Description { get; }
 
         /// <summary>
         /// The closest starting area to the notable.
@@ -85,12 +98,6 @@ namespace Notabledle.NotableModel
         /// The shortest distance from the starting node of <see cref="TreeArea"/>
         /// </summary>
         public int StartingDistance { get; }
-
-        /// <summary>
-        /// The count of separate modifiers granted by the notable
-        /// Some mods like attack and cast speed count as one when granted by a single line, but are separate mods on other notables
-        /// </summary>
-        public int ModifierCount { get; }
 
         /// <summary>
         /// The count of mods in the group

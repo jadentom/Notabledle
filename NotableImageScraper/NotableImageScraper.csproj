@@ -8,7 +8,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="..\NotabledleScraper\SkillTree.json" Link="SkillTree.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="AllPoedbNotablePageMedia\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NotabledleScraper\NotabledleScraper.csproj" />
   </ItemGroup>
 
 </Project>

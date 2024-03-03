@@ -9,7 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotabledleScraper", "Notabl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notabledle.Test", "Notabledle.Test\Notabledle.Test.csproj", "{04AC4349-2A9D-437E-98FC-32903C89972C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotableImageScraper", "NotableImageScraper\NotableImageScraper.csproj", "{8A2D7FB4-D389-4F2A-8417-8538B6725D34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotableImageScraper", "NotableImageScraper\NotableImageScraper.csproj", "{8A2D7FB4-D389-4F2A-8417-8538B6725D34}"
+	ProjectSection(ProjectDependencies) = postProject
+		{55193157-C2FB-4E8C-9D9D-256F82FF418C} = {55193157-C2FB-4E8C-9D9D-256F82FF418C}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

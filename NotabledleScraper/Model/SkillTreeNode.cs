@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace NotabledleScraper.Model
 {
-    internal class SkillTreeNode
+    public class SkillTreeNode
     {
         //"5624": {
         //    "skill": 5624,

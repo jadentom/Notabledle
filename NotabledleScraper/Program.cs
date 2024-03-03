@@ -1,29 +1,33 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using NotabledleScraper;
 using NotabledleScraper.Model;
+using System.Drawing;
 using System.Text;
 using System.Text.Json;
 
 // Output format:
 //
-//public Notable(string name,
+//public Notable(
+//    string id,
+//    string name,
+//    string[] description,
 //    TreeArea treeArea,
 //    MasteryType masteryType,
 //    HashSet<Catalyst> applicableCatalysts,
 //    HashSet<KnownColor> iconColors,
 //    int startingDistance,
-//    int modifierCount,
 //    int groupNodeCount,
 //    OilRecipe oilRecipe)
 //
 //new Notable(
+//    58449,
 //    "Born to Fight",
+//    new[] { "4% increased Attack Speed", "+20 to Strength", "26% increased Physical Damage" },
 //    TreeArea.Marauder,
 //    MasteryType.None,
 //    new HashSet<Catalyst> { Catalysts.Abrasive, Catalysts.Accelerating, Catalysts.Intrinsic, Catalysts.Noxious },
 //    new HashSet<KnownColor> { KnownColor.Pink, KnownColor.Blue },
 //    5,
-//    3,
 //    1,
 //    new OilRecipe(BlightOil.Golden, BlightOil.Violet, BlightOil.Violet)),
 //

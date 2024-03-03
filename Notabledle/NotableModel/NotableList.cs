@@ -997,13 +997,14 @@ new Notable(
     1,
     new OilRecipe(BlightOil.Black, BlightOil.Azure, BlightOil.Azure)),
 new Notable(
+    "58449",
     "Born to Fight",
+    new[] { "4% increased Attack Speed", "+20 to Strength", "26% increased Physical Damage" },
     TreeArea.Marauder,
     MasteryType.None,
-    new HashSet<Catalyst> { Catalyst.Accelerating, Catalyst.Intrinsic, Catalyst.Noxious },
-    new HashSet<KnownColor> { KnownColor.Blue },
+    new HashSet<Catalyst> { Catalysts.Abrasive, Catalysts.Accelerating, Catalysts.Intrinsic, Catalysts.Noxious },
+    new HashSet<KnownColor> { KnownColor.Pink, KnownColor.Blue },
     5,
-    3,
     1,
     new OilRecipe(BlightOil.Golden, BlightOil.Violet, BlightOil.Violet)),
 new Notable(

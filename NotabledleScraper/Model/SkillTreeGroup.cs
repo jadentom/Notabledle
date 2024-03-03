@@ -2,7 +2,7 @@
 
 namespace NotabledleScraper.Model
 {
-    internal class SkillTreeGroup
+    public class SkillTreeGroup
     {
         //"22": {
         //    "x": -8947.77,

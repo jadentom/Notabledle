@@ -7,7 +7,7 @@ namespace NotabledleScraper.Model
     /// <summary>
     /// The model for the whole Json
     /// </summary>
-    internal class SkillTreeJsonModel
+    public class SkillTreeJsonModel
     {
         // {
         //   "nodes": [],

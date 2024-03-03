@@ -1,4 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Text.Json;
+using NotabledleScraper.Model;
+
 Console.WriteLine("Hello, World!");
 
 HttpClient client = new();
@@ -21,10 +24,32 @@ Console.WriteLine(content);
  */
 
 var splitContent = content.Split("'?t=PassiveSkills&id=");
+var urlDictionary = new Dictionary<string, string>();
 foreach (var contentForNotable in splitContent)
 {
-    var nameWithTrailing = contentForNotable.Split('>')[1];
-    var name = nameWithTrailing.Split('<')[0];
-    var nameFiltered = name.Where(char.IsLetterOrDigit);
-    
+    var key = contentForNotable.Split('\'')[0];
+    var url = contentForNotable.Split('"').First(s => s.StartsWith("https://cdn.poedb.tw/image/"));
+}
+
+// Deserialize the tree to crossreference
+var prettyPrintSerializerOptions = new JsonSerializerOptions()
+{
+    WriteIndented = true,
+    AllowTrailingCommas = true, // Doesn't add them but we'll need them when deserializing
+};
+var rawSkillJson = await File.ReadAllTextAsync("SkillTree.json")!;
+var parsedSkillJson = JsonSerializer.Deserialize<SkillTreeJsonModel>(rawSkillJson, prettyPrintSerializerOptions);
+if (parsedSkillJson is null)
+{
+    throw new JsonException("Parsed skill json is null");
+}
+Console.WriteLine($"Deserialized skill tree successfully. {parsedSkillJson.Groups.Count} groups, {parsedSkillJson.Nodes.Count} nodes.");
+
+foreach (var (key, node) in parsedSkillJson.Nodes)
+{
+    if (node.Recipe is null || !node.Recipe.Any())
+    {
+        continue;
+    }
+    var imageUrl = urlDictionary[key];
 }
