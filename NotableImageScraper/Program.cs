@@ -2,12 +2,10 @@
 using System.Text.Json;
 using NotabledleScraper.Model;
 
-Console.WriteLine("Hello, World!");
-
 HttpClient client = new();
 var response = await client.GetAsync("https://poedb.tw/us/Notable");
 var content = await response.Content.ReadAsStringAsync();
-Console.WriteLine(content);
+// Console.WriteLine(content);
 
 // There's some scraper blocking it doesn't work
 // https://superuser.com/questions/1288979/save-multiple-files-from-firefox-web-console
@@ -28,7 +26,15 @@ var urlDictionary = new Dictionary<string, string>();
 foreach (var contentForNotable in splitContent)
 {
     var key = contentForNotable.Split('\'')[0];
-    var url = contentForNotable.Split('"').First(s => s.StartsWith("https://cdn.poedb.tw/image/"));
+    try
+    {
+        var url = contentForNotable.Split('"').First(s => s.StartsWith("https://cdn.poedb.tw/image/"));
+        urlDictionary.Add(key, url);
+    }
+    catch
+    {
+        Console.WriteLine($"Could not add key/url pair for key {key}");
+    }
 }
 
 // Deserialize the tree to crossreference
@@ -45,6 +51,9 @@ if (parsedSkillJson is null)
 }
 Console.WriteLine($"Deserialized skill tree successfully. {parsedSkillJson.Groups.Count} groups, {parsedSkillJson.Nodes.Count} nodes.");
 
+var outDir = "output";
+var rawDir = "AllPoedbNotablePageMedia";
+Directory.CreateDirectory(outDir);
 foreach (var (key, node) in parsedSkillJson.Nodes)
 {
     if (node.Recipe is null || !node.Recipe.Any())
@@ -52,5 +61,17 @@ foreach (var (key, node) in parsedSkillJson.Nodes)
         continue;
     }
     var imageUrl = urlDictionary[key];
-    // TODO: COPY
+    var imageName = imageUrl.Split('/').Last();
+    imageName = imageName.Replace("%20", " ");
+    var rawPath = Path.Combine(rawDir, imageName);
+    var outPath = Path.Combine(outDir, $"notable_{key}.webp");
+    try
+    {
+        File.Copy(rawPath, outPath);
+    }
+    catch (IOException e) when (e.Message.Contains("already exists", StringComparison.OrdinalIgnoreCase))
+    {
+        Console.WriteLine($"{outPath} already exists, skipping");
+    }
 }
+Console.WriteLine($"Copied all notables to {Path.GetFullPath(outDir)}");
