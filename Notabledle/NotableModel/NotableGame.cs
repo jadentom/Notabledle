@@ -23,24 +23,32 @@ namespace Notabledle.NotableModel
         //   Zoom in when tree area is known and grey out other areas
         // Add code to switch to a new notable every day
         // Prettify UI with CSS
-        Notable targetNotable = NotableList.Value[305]; // Rampart in Duelist
+
+        Notable targetNotable;
         List<Notable> notableGuesses = new List<Notable>();
         List<IPropertyCellFromProperty> propertyCellFromProperties = new List<IPropertyCellFromProperty>()
         {
-            new PropertyCellFromRowCount(),
-            new PropertyCellFromName(),
-            new PropertyCellFromIcon(),
-            new PropertyCellFromTreeArea(),
-            new PropertyCellFromMasteryType(),
-            new PropertyCellFromCatalystList(),
-            new PropertyCellFromIconColors(),
-            new PropertyCellFromStartingDistance(),
-            new PropertyCellFromModifierCount(),
-            new PropertyCellFromGroupNodeCount(),
-            new PropertyCellFromOilRecipe(),
+            // Make sure this count is synced with Index.Razor
+            new PropertyCellFromRowCount(), // 0
+            new PropertyCellFromName(), // 1
+            new PropertyCellFromIcon(), // 2
+            new PropertyCellFromTreeArea(), // 3
+            new PropertyCellFromMasteryType(), // 4
+            new PropertyCellFromCatalystList(), // 5
+            new PropertyCellFromIconColors(), // 6
+            new PropertyCellFromStartingDistance(), // 7
+            new PropertyCellFromModifierCount(), // 8
+            new PropertyCellFromGroupNodeCount(), // 9
+            new PropertyCellFromOilRecipe(), // 10
         };
 
-        public NotableGame() { }
+        public NotableGame()
+        {
+            // targetNotable = NotableList.Value[305]; // Rampart in Duelist
+            var dailyRandom = new Random((int)DateTime.UtcNow.Date.Ticks);
+            var randomIndex = dailyRandom.Next(0, NotableList.Value.Count());
+            targetNotable = NotableList.Value[randomIndex];
+        }
 
         public List<List<PropertyCell>> GuessNotable(string notableName)
         {
