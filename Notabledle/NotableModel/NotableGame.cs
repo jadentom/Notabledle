@@ -29,6 +29,7 @@ namespace Notabledle.NotableModel
         {
             new PropertyCellFromRowCount(),
             new PropertyCellFromName(),
+            new PropertyCellFromIcon(),
             new PropertyCellFromTreeArea(),
             new PropertyCellFromMasteryType(),
             new PropertyCellFromCatalystList(),
