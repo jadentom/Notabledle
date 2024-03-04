@@ -60,7 +60,8 @@ namespace NotabledleScraper
             var groupNodeCount = siblingNodes.Where(n => !n.IsMastery).Count();
 
             var description = string.Join(", ", node.Stats.Select(s => $"\"{s}\""));
-            
+            description = description.Replace(Environment.NewLine, " ");
+
             // Comment these out if re-generating the manual stats json
             var manualDataEntry = manualDataDictionary[node.Name];
             outString.AppendLine($@"new Notable(

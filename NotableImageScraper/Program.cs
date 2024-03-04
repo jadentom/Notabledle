@@ -52,4 +52,5 @@ foreach (var (key, node) in parsedSkillJson.Nodes)
         continue;
     }
     var imageUrl = urlDictionary[key];
+    // TODO: COPY
 }
