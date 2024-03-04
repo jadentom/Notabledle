@@ -14,18 +14,30 @@ var content = await response.Content.ReadAsStringAsync();
 
 // A notable div looks like this:
 /**
-  </div></td><td><div><a data-hover='?t=PassiveSkills&id=48807' href='/us/Art_of_the_Gladiator'>Art of the Gladiator</a></div><div class="implicitMod"><span class='mod-value'>10</span>% increased Attack Speed<br/><span class='mod-value'>10</span>% increased Global Accuracy Rating<br/>Ignore all Movement Penalties from Armour<br/><span class='mod-value'>+20</span> to Dexterity</div></td></tr><tr><td>  <div class="passive-icon-container passive-icon-type__notable">
+<tr><td>  <div class="passive-icon-container passive-icon-type__notable">
     <div class="passive-icon-frame"></div>
-    <a href="/us/Agility">
-      <img loading="lazy" src="https://cdn.poedb.tw/image/Art/2DArt/SkillIcons/passives/grace.webp">
+    <a href="/us/Broadside">
+      <img loading="lazy" src="https://cdn.poedb.tw/image/Art/2DArt/SkillIcons/passives/BowDamage.webp">
     </a>
+  </div></td><td><div><a data-hover='?t=PassiveSkills&id=20834' href='/us/Broadside'>Broadside</a></div><div class="implicitMod">Bow Skills have <span class='mod-value'>25</span>% increased Area of Effect</div></td></tr>
  */
 
-var splitContent = content.Split("'?t=PassiveSkills&id=");
+var splitContent = content.Split("<div class=\"passive-icon-frame\"></div>");
 var urlDictionary = new Dictionary<string, string>();
-foreach (var contentForNotable in splitContent)
+foreach (var contentForNotable in splitContent.Skip(1))
 {
-    var key = contentForNotable.Split('\'')[0];
+    var firstHref = contentForNotable.Split("href=\"")[1].Split('\"')[0];
+    string key;
+    try
+    {
+        key = contentForNotable.Split("'?t=PassiveSkills&id=")[1];
+        key = key.Split('\'')[0];
+    }
+    catch
+    {
+        Console.WriteLine($"Stopping loop because encountered {firstHref}. This should be a timeless notable");
+        break;
+    }
     try
     {
         var url = contentForNotable.Split('"').First(s => s.StartsWith("https://cdn.poedb.tw/image/"));
