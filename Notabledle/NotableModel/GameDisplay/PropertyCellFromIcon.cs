@@ -9,6 +9,6 @@ namespace Notabledle.NotableModel.GameDisplay
         public string HelpText => "The notable icon.";
 
         public PropertyCell PropertyCellFromProperty(Notable guessGem, Notable targetGem, int i) =>
-            new PropertyCell($"images/notable_{guessGem.Id}.webp");
+            new PropertyCell($"assets/images/notable_{guessGem.Id}.webp");
     }
 }
