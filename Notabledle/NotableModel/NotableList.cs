@@ -4,6 +4,7 @@ using System;
 using System.Drawing;
 using static System.Net.Mime.MediaTypeNames;
 using System.Threading.Channels;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Notabledle.NotableModel
 {
@@ -396,7 +397,7 @@ new Notable(
     "Arcane Capacitor",
     new[] { "15% increased maximum Mana", "10% increased Effect of Arcane Surge on you per 200 Mana spent Recently, up to 50%", "10% chance to gain Arcane Surge when you Kill an Enemy" },
     TreeArea.Templar,
-                MasteryType.Mana,
+    MasteryType.Mana,
     new HashSet<Catalyst> { Catalyst.Fertile },
     new HashSet<KnownColor> { KnownColor.Blue },
     13,
@@ -619,7 +620,7 @@ new Notable(
     MasteryType.Staff,
     new HashSet<Catalyst> { Catalyst.Abrasive, Catalyst.Turbulent },
     new HashSet<KnownColor> { KnownColor.Red, KnownColor.Orange },
-    -1,
+    13,
     9,
     new OilRecipe(BlightOil.Opalescent, BlightOil.Opalescent, BlightOil.Teal)),
 new Notable(
@@ -1499,7 +1500,7 @@ new Notable(
     MasteryType.TwoHand,
     new HashSet<Catalyst> { Catalyst.Abrasive, Catalyst.Accelerating },
     new HashSet<KnownColor> { KnownColor.Red, KnownColor.Green },
-    -1,
+    13,
     8,
     new OilRecipe(BlightOil.Opalescent, BlightOil.Teal, BlightOil.Clear)),
 new Notable(
@@ -2588,7 +2589,7 @@ new Notable(
     MasteryType.TwoHand,
     new HashSet<Catalyst> { Catalyst.Abrasive, Catalyst.Unstable },
     new HashSet<KnownColor> { KnownColor.Green },
-    -1,
+    9,
     4,
     new OilRecipe(BlightOil.Opalescent, BlightOil.Verdant, BlightOil.Amber)),
 new Notable(
@@ -2984,7 +2985,7 @@ new Notable(
     MasteryType.Curse,
     new HashSet<Catalyst> { Catalyst.Imbued },
     new HashSet<KnownColor> { KnownColor.Pink },
-    -1,
+    10,
     4,
     new OilRecipe(BlightOil.Golden, BlightOil.Indigo, BlightOil.Sepia)),
 new Notable(
@@ -3072,7 +3073,7 @@ new Notable(
     MasteryType.DualWielding,
     new HashSet<Catalyst> { Catalyst.Abrasive },
     new HashSet<KnownColor> { KnownColor.Green },
-    -1,
+    13,
     8,
     new OilRecipe(BlightOil.Opalescent, BlightOil.Violet, BlightOil.Clear)),
 new Notable(
@@ -3171,7 +3172,7 @@ new Notable(
     MasteryType.None,
     new HashSet<Catalyst> { Catalyst.Intrinsic },
     new HashSet<KnownColor> { KnownColor.Red },
-    -1,
+    9,
     1,
     new OilRecipe(BlightOil.Sepia, BlightOil.Clear, BlightOil.Clear)),
 new Notable(
@@ -3922,9 +3923,9 @@ new Notable(
     10,
     6,
     new OilRecipe(BlightOil.Silver, BlightOil.Violet, BlightOil.Sepia)),
-            new Notable(
-            8458,
-            "Longshot",
+new Notable(
+    8458,
+    "Longshot",
     new[] { "30% increased Projectile Speed", "Projectiles gain Damage as they travel farther, dealing up to 60% increased Damage with Hits to targets" },
     TreeArea.Ranger,
     MasteryType.Projectile,
@@ -3933,9 +3934,9 @@ new Notable(
     11,
     6,
     new OilRecipe(BlightOil.Opalescent, BlightOil.Crimson, BlightOil.Teal)),
-            new Notable(
-            31513,
-            "Adjacent Animosity",
+new Notable(
+    31513,
+    "Adjacent Animosity",
     new[] { "10% reduced Projectile Speed", "Projectiles deal 40% increased Damage with Hits to targets at the start of their movement, reducing to 0% as they travel farther" },
     TreeArea.Ranger,
     MasteryType.Projectile,
@@ -4315,7 +4316,7 @@ new Notable(
     MasteryType.Mana,
     new HashSet<Catalyst> { Catalyst.Fertile },
     new HashSet<KnownColor> { KnownColor.Blue },
-    -1,
+    8,
     4,
     new OilRecipe(BlightOil.Teal, BlightOil.Teal, BlightOil.Verdant)),
 new Notable(

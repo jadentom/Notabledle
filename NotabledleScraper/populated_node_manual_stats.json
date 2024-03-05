@@ -88,7 +88,7 @@
       "Red",
       "Green"
     ],
-    "Distance": -1
+    "Distance": 13
   },
   {
     "Name": "Dismembering",
@@ -488,7 +488,7 @@
     "Colors": [
       "Green"
     ],
-    "Distance": -1
+    "Distance": 9
   },
   {
     "Name": "Assured Strike",
@@ -681,7 +681,7 @@
     "Colors": [
       "Green"
     ],
-    "Distance": -1
+    "Distance": 13
   },
   {
     "Name": "Feller of Foes",
@@ -1470,7 +1470,7 @@
     "Colors": [
       "Red"
     ],
-    "Distance": -1
+    "Distance": 9
   },
   {
     "Name": "Crystal Skin",
@@ -3155,7 +3155,7 @@
     "Colors": [
       "Blue"
     ],
-    "Distance": -1
+    "Distance": 8
   },
   {
     "Name": "Frenetic",
@@ -3740,7 +3740,7 @@
       "Red",
       "Orange"
     ],
-    "Distance": -1
+    "Distance": 13
   },
   {
     "Name": "Tireless",
@@ -4812,7 +4812,7 @@
     "Colors": [
       "Pink"
     ],
-    "Distance": -1
+    "Distance": 10
   },
   {
     "Name": "Fingers of Frost",
